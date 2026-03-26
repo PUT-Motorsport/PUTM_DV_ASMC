@@ -20,3 +20,64 @@
 
 # Fabrication Toolkit
 /hardware/production/
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
+
+# 3d files 
+#*.step
+#*.wrl
+
+# Compile files
+*.bin
+*.elf
+*.map
+*.list
+*.mk
+
+# Other files
+*.zip
+*.html
+
+# Folders 
+*/bom/*
+*/fp-info-cache/*
+*/Debug/*
+*/.metadata/*
+
+#Cmake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
+build
