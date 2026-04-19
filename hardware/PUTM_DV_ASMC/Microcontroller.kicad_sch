@@ -5085,7 +5085,7 @@
 		)
 		(uuid "f812e9d2-23e0-4e3b-8392-58df7d382092")
 	)
-	(hierarchical_label "{CAN_1_MCU}"
+	(hierarchical_label "{CAN1_MCU}"
 		(shape bidirectional)
 		(at 50.8 163.83 0)
 		(effects
@@ -5096,7 +5096,7 @@
 		)
 		(uuid "28a16b5d-a25a-42ed-87f5-a01f199d763b")
 	)
-	(hierarchical_label "{CAN_2_MCU}"
+	(hierarchical_label "{CAN2_MCU}"
 		(shape bidirectional)
 		(at 50.8 180.34 0)
 		(effects
