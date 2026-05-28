@@ -2652,7 +2652,7 @@
 		(uuid "39f28286-dcab-402c-ac72-642976b6a579")
 	)
 	(hierarchical_label "OUTPUT_ODRIVE"
-		(shape input)
+		(shape output)
 		(at 189.23 71.12 0)
 		(effects
 			(font

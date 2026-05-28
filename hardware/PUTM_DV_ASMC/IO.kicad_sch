@@ -4163,7 +4163,7 @@
 		(uuid "3fe88a36-0125-48db-a28f-10e085086908")
 	)
 	(hierarchical_label "RES_SAFETY_OUTPUT"
-		(shape input)
+		(shape output)
 		(at 201.93 109.22 0)
 		(effects
 			(font
@@ -4174,7 +4174,7 @@
 		(uuid "6a203a3f-69a5-4a1f-b5ab-b3a1fc23a4b0")
 	)
 	(hierarchical_label "RES_SAFETY_IN"
-		(shape input)
+		(shape output)
 		(at 201.93 137.16 0)
 		(effects
 			(font
@@ -7085,26 +7085,6 @@
 					(unit 1)
 				)
 			)
-		)
-	)
-	(group ""
-		(uuid "3cb94421-6fef-41ab-8aca-1bb4975a5d67")
-		(members "058c119b-7b5e-4be6-9dd9-77956af8631e" "06eb6851-f71e-48c3-9d55-6a4454f72066"
-			"0f04764c-a9c6-4546-b0f8-8e79def7ef79" "1be2d804-d21b-42bf-9922-a1e309fc6313"
-			"20d4376f-85fc-438f-80fd-76ed747431a7" "2517ebd4-1633-4649-af89-dcdf95830b6f"
-			"2883a0e1-238c-42ef-9bbf-5d3af29825bc" "334e8cb6-5bb3-435d-9903-589fd98b6398"
-			"3df0cd19-b65c-417f-a0fd-361945718dc4" "3eab420e-4a45-4a70-855a-c900c3a10dd2"
-			"3fe88a36-0125-48db-a28f-10e085086908" "4a3b0eae-4bff-4e5b-a0b4-a98859ab8fae"
-			"4c7c4c9c-1cf3-4004-9802-0db4d4e54b92" "51e78d01-08dc-4f48-afe4-2cb2bb5cd559"
-			"58fcd43b-4f94-4f07-8bf2-a616202ffac8" "5c459c4a-ac80-46d9-b66f-ce0857e02798"
-			"6d31a3b8-99e6-4b49-8c53-aff4336e20b8" "6dbf84d3-72af-48e1-92f4-2f8d24832782"
-			"7048251e-2d57-4c7a-abd6-8eb55bf87aa3" "a109052a-2f62-481d-8364-96d638b9e39b"
-			"a16fcd44-259b-4214-93f9-ce0456dfff68" "a55c4ed3-f659-4865-82be-744633d19361"
-			"ab5d48bf-d740-4920-b823-31d1c89de7ce" "ab722c10-840f-46a0-89b6-ca8210a4b5f0"
-			"b00dd03d-f6f1-4cee-8322-05d2814af237" "bd5c868e-759a-451f-a8fa-e3902719da1d"
-			"d454ba87-598c-4b5e-ae94-e0a08750598a" "e149af7e-e9bc-482f-837a-7105fe1d689c"
-			"e560e48f-4926-43a8-aca3-5d48b251c2f7" "e86e67bc-af59-4abf-91fb-ea473bbc48ce"
-			"f8eda6d1-aa82-4881-a45a-fa8cb19e135d"
 		)
 	)
 )

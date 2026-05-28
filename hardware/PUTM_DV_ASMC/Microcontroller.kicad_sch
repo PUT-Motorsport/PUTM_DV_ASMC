@@ -4119,7 +4119,7 @@
 	)
 	(no_connect
 		(at 233.68 104.14)
-		(uuid "74d03ea9-0724-45d2-bcc0-99c7bd7b8690")
+		(uuid "6d4f03b4-d4e9-41b3-8ed3-e0677191fd75")
 	)
 	(no_connect
 		(at 198.12 116.84)
@@ -4132,10 +4132,6 @@
 	(no_connect
 		(at 233.68 93.98)
 		(uuid "872d0b5e-6973-4ea4-a40c-47fa560dda81")
-	)
-	(no_connect
-		(at 233.68 101.6)
-		(uuid "8e8ceb66-6a64-4b3d-bf94-22ba0a8af8d2")
 	)
 	(no_connect
 		(at 233.68 78.74)
@@ -4160,10 +4156,6 @@
 	(no_connect
 		(at 198.12 114.3)
 		(uuid "d83d92e4-f705-4274-8ad9-fb454e5c4d7e")
-	)
-	(no_connect
-		(at 233.68 99.06)
-		(uuid "ddfee44d-6a20-444c-9940-dc7fdc1f15ae")
 	)
 	(no_connect
 		(at 198.12 111.76)
@@ -4424,6 +4416,16 @@
 			(type default)
 		)
 		(uuid "160b920e-39ee-4736-a229-af22707b77ed")
+	)
+	(wire
+		(pts
+			(xy 233.68 99.06) (xy 256.54 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16b4a3f0-efde-45e1-88ec-bbfdf8e68dd8")
 	)
 	(wire
 		(pts
@@ -5044,6 +5046,16 @@
 			(type default)
 		)
 		(uuid "75807c27-65bd-4794-8837-9d24e41780dc")
+	)
+	(wire
+		(pts
+			(xy 233.68 101.6) (xy 256.54 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "765546c2-73f0-4790-a3f8-36aa976047f8")
 	)
 	(wire
 		(pts
@@ -6466,6 +6478,17 @@
 		)
 		(uuid "039e6e41-0980-4b69-8839-c9258936d20b")
 	)
+	(hierarchical_label "ADC"
+		(shape bidirectional)
+		(at 256.54 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0549810d-04ab-48a1-aea1-37e0765c5bf6")
+	)
 	(hierarchical_label "RES_BYPASS_PIN"
 		(shape output)
 		(at 256.54 66.04 0)
@@ -6478,7 +6501,7 @@
 		(uuid "1289e4ea-6949-4135-8cf9-3e7860e557a5")
 	)
 	(hierarchical_label "ASSI_DI_PIN"
-		(shape output)
+		(shape bidirectional)
 		(at 256.54 127 0)
 		(effects
 			(font
@@ -6564,6 +6587,17 @@
 			(justify right)
 		)
 		(uuid "81d77b2a-9c08-47e2-a978-6fbe9962c913")
+	)
+	(hierarchical_label "GPIO"
+		(shape bidirectional)
+		(at 256.54 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "845187fd-abd1-4ba3-b6d5-65de3d349711")
 	)
 	(hierarchical_label "UART_RX_PROG"
 		(shape input)
@@ -8058,7 +8092,7 @@
 			)
 		)
 		(property "Value" "STM32G484RETx"
-			(at 208.788 101.092 0)
+			(at 208.788 96.012 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8281,6 +8315,7 @@
 		)
 		(pin "25"
 			(uuid "4a2c1913-ce08-41d6-a46c-ed785f5a4d5a")
+			(alternate "ADC3_IN1")
 		)
 		(pin "56"
 			(uuid "e807bbb9-abbc-4fd3-a547-3d98530bf032")

@@ -860,125 +860,49 @@
 		)
 		(uuid "d5f95bd3-f3e1-4c55-b0eb-92489094d112")
 	)
-	(global_label "ASSI_POWER"
-		(shape input)
+	(hierarchical_label "OUT_ASSI"
+		(shape output)
 		(at 241.3 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "08459abb-88eb-40b0-bf46-dd4f2c29d12f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.8361 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
+		(uuid "2dd48d8d-0bd1-4374-a719-053b76f8cfb6")
 	)
-	(global_label "RES_POWER"
-		(shape input)
-		(at 241.3 54.61 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "15fc1e58-b216-4126-a5e1-7cd4b6a43285")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.3522 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "LIDAR_POWER"
-		(shape input)
+	(hierarchical_label "OUT_LIDAR"
+		(shape output)
 		(at 241.3 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "31723d26-8ba8-4480-ac8f-f66570539b6d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.9852 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
+		(uuid "4bdc944c-95b6-4f76-a462-189371982f61")
 	)
-	(global_label "ODRIVE_POWER"
-		(shape input)
+	(hierarchical_label "OUT_ODRIVE"
+		(shape output)
 		(at 151.13 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "4cea0f8a-7c46-4f72-a42c-e2ef577d1de3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.2666 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
+		(uuid "53ca1d2e-ed8b-41ce-9d3d-97f4057eb910")
 	)
-	(global_label "EBS_POWER"
-		(shape input)
-		(at 241.3 64.77 0)
-		(fields_autoplaced yes)
+	(hierarchical_label "OUT_RES"
+		(shape output)
+		(at 241.3 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "572f4e74-ba2d-4be8-8b89-2aa378d8bccf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.3522 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
+		(uuid "632ae624-e13c-409e-8029-5b8502b4091d")
 	)
 	(hierarchical_label "SPI1_Bus{SPI}"
 		(shape bidirectional)
@@ -1001,6 +925,17 @@
 			(justify right)
 		)
 		(uuid "9727d5b0-66ae-4931-8433-f65b93fb4461")
+	)
+	(hierarchical_label "OUT_EBS"
+		(shape output)
+		(at 241.3 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f05570a0-135e-41f9-aea5-67a376f55516")
 	)
 	(hierarchical_label "LHI{LHI.0 LHI.1}"
 		(shape input)
@@ -1179,7 +1114,7 @@
 				(justify left)
 			)
 		)
-		(pin "OUTPUT_ODRIVE" input
+		(pin "OUTPUT_ODRIVE" output
 			(at 148.59 62.23 0)
 			(uuid "c52ef779-3eb4-461c-942f-e61665ac9eeb")
 			(effects

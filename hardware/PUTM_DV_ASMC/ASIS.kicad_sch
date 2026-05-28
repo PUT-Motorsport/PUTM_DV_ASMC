@@ -2197,7 +2197,7 @@
 		(uuid "904f6091-ffd8-4a17-823e-7fbca4d0220f")
 	)
 	(hierarchical_label "ASSI_DO_PIN"
-		(shape output)
+		(shape input)
 		(at 224.79 88.9 180)
 		(effects
 			(font
