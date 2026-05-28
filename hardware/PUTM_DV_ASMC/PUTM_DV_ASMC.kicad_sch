@@ -85,16 +85,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 153.67) (xy 237.49 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "294c7183-87e2-44e4-af2a-63e7e82074f8")
-	)
-	(wire
-		(pts
 			(xy 210.82 54.61) (xy 237.49 54.61)
 		)
 		(stroke
@@ -155,6 +145,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 156.21) (xy 237.49 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "780cad75-0cdb-4777-843d-128ee710be1d")
+	)
+	(wire
+		(pts
 			(xy 210.82 120.65) (xy 237.49 120.65)
 		)
 		(stroke
@@ -212,6 +212,16 @@
 			(type default)
 		)
 		(uuid "9f430dff-be15-4a5b-b29d-527ce36d904c")
+	)
+	(wire
+		(pts
+			(xy 144.78 153.67) (xy 237.49 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a82d1153-0ce7-43ff-88cc-789a0109a39f")
 	)
 	(wire
 		(pts
@@ -302,16 +312,6 @@
 			(type default)
 		)
 		(uuid "df87b982-2c40-47ae-a302-db4377802abd")
-	)
-	(wire
-		(pts
-			(xy 144.78 156.21) (xy 237.49 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e387774c-3468-48e2-a495-e92de218ff1d")
 	)
 	(bus
 		(pts
@@ -850,7 +850,7 @@
 			)
 		)
 		(pin "UART_RX_PROG" input
-			(at 237.49 156.21 180)
+			(at 237.49 153.67 180)
 			(uuid "e7e27399-5b81-4238-80a5-bd69818afa18")
 			(effects
 				(font
@@ -860,7 +860,7 @@
 			)
 		)
 		(pin "UART_TX_PROG" input
-			(at 237.49 153.67 180)
+			(at 237.49 156.21 180)
 			(uuid "9edeb298-1527-408f-9d38-96ecae621f6c")
 			(effects
 				(font

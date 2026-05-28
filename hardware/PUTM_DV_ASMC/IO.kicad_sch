@@ -4402,7 +4402,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13970b94-78db-4bf5-b5db-1dd12cd4bea7")
-		(property "Reference" "U8"
+		(property "Reference" "U7"
 			(at 77.47 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4509,7 +4509,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/758e311c-7b96-4a6d-a057-b3755526b6e1"
-					(reference "U8")
+					(reference "U7")
 					(unit 2)
 				)
 			)
@@ -5979,7 +5979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dfe4715-d812-4dd7-82e9-7bdc4db03d12")
-		(property "Reference" "U8"
+		(property "Reference" "U7"
 			(at 76.2 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6086,7 +6086,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/758e311c-7b96-4a6d-a057-b3755526b6e1"
-					(reference "U8")
+					(reference "U7")
 					(unit 1)
 				)
 			)

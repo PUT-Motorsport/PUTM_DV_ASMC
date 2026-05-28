@@ -3170,12 +3170,6 @@
 		(uuid "43e7c5c6-06e1-44d9-9144-7ac2a0505afd")
 	)
 	(junction
-		(at 39.37 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44ff4a48-a644-4e23-9567-db4a9000d78f")
-	)
-	(junction
 		(at 59.69 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3592,16 +3586,6 @@
 			(type default)
 		)
 		(uuid "312abbc5-c84e-4662-bcc2-43804083808d")
-	)
-	(wire
-		(pts
-			(xy 39.37 54.61) (xy 39.37 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3446356e-e95c-428e-82b1-7aa58d265174")
 	)
 	(wire
 		(pts
@@ -4275,7 +4259,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 57.15) (xy 39.37 59.69)
+			(xy 39.37 54.61) (xy 39.37 59.69)
 		)
 		(stroke
 			(width 0)
@@ -9844,85 +9828,6 @@
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/76c3c659-a748-4932-81b3-d10dc40d628f"
 					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 39.37 57.15 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "828d09f5-5df1-4d38-8831-b284bbd7029a")
-		(property "Reference" "#FLG01"
-			(at 41.275 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 43.18 57.1499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 39.37 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 39.37 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f5c56737-5001-4188-b1c8-a52a6ffea241")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/76c3c659-a748-4932-81b3-d10dc40d628f"
-					(reference "#FLG01")
 					(unit 1)
 				)
 			)

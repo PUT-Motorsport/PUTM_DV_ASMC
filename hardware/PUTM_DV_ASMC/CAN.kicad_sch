@@ -1849,2122 +1849,1751 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 237.49 151.13)
-		(end 281.94 163.83)
-		(stroke
-			(width 0)
-			(type dash)
+	(text "1*"
+		(exclude_from_sim no)
+		(at 100.33 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
 		)
-		(fill
-			(type none)
-		)
-		(uuid "e88fe012-abb2-45ad-91ca-5c7ac360a7df")
+		(uuid "a2638521-4f44-4e54-844b-2cda6bd695ed")
 	)
 	(text "1*"
 		(exclude_from_sim no)
-		(at 125.73 78.74 0)
+		(at 100.33 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "1a22dc3b-3f8e-4647-afcc-b7d6fd5e4544")
-	)
-	(text "1* Slope control for 5 Mbps"
-		(exclude_from_sim no)
-		(at 252.73 154.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "410ec422-b309-4713-b6c1-a05cff3ed652")
-	)
-	(text "1*"
-		(exclude_from_sim no)
-		(at 125.73 165.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5f15eacb-d6fe-45b8-bedc-cca24b0bcf36")
+		(uuid "ccaba31e-9b4d-4a08-a4e1-54fefe4f9a31")
 	)
 	(junction
-		(at 116.84 157.48)
+		(at 143.51 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "016ad723-b887-495e-9d52-cd60ee32bb37")
+		(uuid "184fc0c4-e4c3-4a8e-9e89-566809d841d2")
 	)
 	(junction
-		(at 92.71 93.98)
+		(at 143.51 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "01d8540c-c935-4eff-8d9e-a8eb61621b02")
+		(uuid "1cf317df-cf03-4a2c-840c-76be5f3e7895")
 	)
 	(junction
-		(at 99.06 97.79)
+		(at 67.31 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "03f5bbc0-d59a-4d22-9aec-be7950bd11ee")
+		(uuid "20574313-3c15-438a-94d1-abcdaa9e8187")
 	)
 	(junction
-		(at 168.91 107.95)
+		(at 139.7 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "085a78a1-866d-454d-81a0-cd973a257f13")
+		(uuid "22537012-fda5-4a26-a9cd-72a5f4a3954f")
 	)
 	(junction
-		(at 187.96 119.38)
+		(at 143.51 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1313f52d-c96a-4a68-acf7-b31d967a1ee8")
+		(uuid "30bd8595-857d-403e-8b23-9822f0e6d3dc")
 	)
 	(junction
-		(at 146.05 119.38)
+		(at 73.66 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "153f9ad0-23f8-4d7d-a3f7-c0a092de24ac")
+		(uuid "385c252f-bcfa-488f-8c98-25f2f0136654")
 	)
 	(junction
-		(at 99.06 184.15)
+		(at 73.66 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1db00841-3b47-422b-914f-18f3dc400afd")
+		(uuid "3b09db7c-7678-45d7-9f44-abb6a715e9aa")
 	)
 	(junction
-		(at 92.71 179.07)
+		(at 149.86 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2294c7c6-e0c7-4220-ae6b-344daf24ce53")
+		(uuid "3dce8253-343d-472d-9f1b-2d5ba6e68d44")
 	)
 	(junction
-		(at 165.1 21.59)
+		(at 91.44 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "26a741c8-0525-4e05-86d7-c22b3131c341")
+		(uuid "3ea5be78-1564-4b31-89e6-151b3c03d0bc")
 	)
 	(junction
-		(at 165.1 119.38)
+		(at 67.31 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2a002161-c43f-4ae3-ac64-e0d17f42e793")
+		(uuid "44a5c92e-5d0a-460f-89f6-41e433fd36d2")
 	)
 	(junction
-		(at 165.1 107.95)
+		(at 139.7 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3ab7f941-beea-4027-b03a-d189d4593a5f")
-	)
-	(junction
-		(at 175.26 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d1ae54f-7cea-4b35-931d-377122c26ee8")
-	)
-	(junction
-		(at 116.84 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5291f412-a290-407b-bddb-03f5e14749fd")
-	)
-	(junction
-		(at 160.02 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5d884127-8277-472f-bedf-d2472baa1a2e")
-	)
-	(junction
-		(at 99.06 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5ebda323-9aae-4d3a-902e-704d5f7d0bd6")
-	)
-	(junction
-		(at 160.02 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "65817c50-d65c-428a-9e4b-ebfe5e9fd74a")
+		(uuid "47afb6a0-105a-49a7-add7-457bb7d4a0ea")
 	)
 	(junction
 		(at 165.1 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "69d377d3-114c-410f-a2bf-84eda2fe4a1f")
+		(uuid "5080ab02-0018-4234-b4f4-a4bf5111b38b")
 	)
 	(junction
-		(at 99.06 167.64)
+		(at 67.31 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6ae8abfd-ed60-42d1-9dc9-b7c304c8e81b")
+		(uuid "51d161c3-b74a-40f4-8c20-a6c22b57df97")
 	)
 	(junction
-		(at 168.91 33.02)
+		(at 73.66 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7406bffa-7c75-4bcb-82ed-fe491091395b")
+		(uuid "5361e3d8-59f6-42a0-859f-2e93d6d75454")
 	)
 	(junction
-		(at 99.06 76.2)
+		(at 59.69 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "84e3ab63-ea91-4c61-8f24-b1fba9bbd971")
+		(uuid "5a513f04-1f58-466a-9e9f-2a6b4b6f72d9")
 	)
 	(junction
-		(at 85.09 170.18)
+		(at 139.7 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8b6266ab-b1ee-4e86-9cd3-5e240e5aa047")
+		(uuid "61a64440-38ad-46f0-9878-b31d57ae1c0f")
 	)
 	(junction
-		(at 168.91 21.59)
+		(at 73.66 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "91973f59-1636-4b36-96b5-f85f832a397b")
+		(uuid "6a580e3c-2b72-4b03-acf5-38616fac3a9b")
 	)
 	(junction
-		(at 168.91 119.38)
+		(at 162.56 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "946429e7-1ce9-4727-8cf3-e8122309fe79")
+		(uuid "713e63cf-1f01-4e6e-8350-4630eedad800")
 	)
 	(junction
-		(at 116.84 162.56)
+		(at 134.62 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "94a18722-edd2-4a3e-ad28-62780be6d8e2")
+		(uuid "79aa11f8-c0a9-4394-b52e-cce8951b815e")
 	)
 	(junction
-		(at 92.71 170.18)
+		(at 139.7 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a39149db-1dc2-412d-bb6b-3a69b8f3fb17")
+		(uuid "7a2dea07-6129-423e-a2db-40b795e714e2")
 	)
 	(junction
-		(at 99.06 157.48)
+		(at 91.44 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a4c9c9b8-cbe1-4dd0-a3d5-ecbcc5a82021")
+		(uuid "7bf61944-ab9c-44a9-b665-427523aa75f0")
 	)
 	(junction
-		(at 190.5 33.02)
+		(at 134.62 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ace2a606-7d69-413d-a6d8-76adeda26b7c")
+		(uuid "7f7833b9-34a9-4787-9d91-fdabdbf0e06a")
 	)
 	(junction
-		(at 116.84 76.2)
+		(at 143.51 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b6da1747-57c9-404d-b7d1-83f554c174e3")
+		(uuid "91364124-cf43-440a-b74c-be3c1ef1a0f3")
 	)
 	(junction
-		(at 92.71 83.82)
+		(at 73.66 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c94fd0f1-588c-46f5-a46c-b06652f6764d")
+		(uuid "9176ec73-9eb6-4202-abb4-51356eead6f0")
 	)
 	(junction
-		(at 99.06 162.56)
+		(at 73.66 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cb0b376e-0f75-451a-a1eb-121f54352752")
+		(uuid "93debaae-aa89-4f2d-a72d-ee812a9da71e")
 	)
 	(junction
-		(at 99.06 179.07)
+		(at 91.44 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d4474ae0-498c-4ea3-867b-448bc977212a")
+		(uuid "96a2d8b9-29c3-444c-bfef-319cbfef91ea")
 	)
 	(junction
-		(at 99.06 71.12)
+		(at 67.31 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d4c9afc7-079a-4e6a-ba19-4d2ec525e5d0")
+		(uuid "a6588768-98ab-4675-b007-64565b193943")
 	)
 	(junction
-		(at 85.09 83.82)
+		(at 120.65 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e3b3b9bb-4be7-4353-8966-e11bbe48cbc3")
+		(uuid "ae1ef465-2bfc-4025-b543-d40270ad577d")
 	)
 	(junction
-		(at 99.06 81.28)
+		(at 120.65 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e51ff7c4-cff0-4bcf-bdd8-040674914f2c")
+		(uuid "af0b688e-3501-47f7-a0d5-f43230753763")
 	)
 	(junction
-		(at 173.99 119.38)
+		(at 73.66 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e73cd73d-574d-4d7d-8221-c3cba725f256")
+		(uuid "b08aeacc-ac2c-424d-8401-1bb7f2f4191c")
 	)
 	(junction
-		(at 146.05 33.02)
+		(at 73.66 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ffc7d529-56ff-4cae-9283-2a00820219c5")
+		(uuid "c5609224-6987-4b50-9e3e-e87005744280")
+	)
+	(junction
+		(at 148.59 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c783a3f7-ec16-4378-96d9-53709a055b2d")
+	)
+	(junction
+		(at 73.66 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d1801e40-7678-4d7c-b8bc-6c12957a1963")
+	)
+	(junction
+		(at 91.44 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df613387-53f9-44a0-acad-275e03f9b70a")
+	)
+	(junction
+		(at 73.66 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9d28d29-7fdf-4456-8360-09534f85f503")
+	)
+	(junction
+		(at 59.69 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fad6dd52-55c8-474d-af84-999532b600cf")
 	)
 	(no_connect
-		(at 127 62.23)
-		(uuid "0f6c1ab5-240c-4816-892b-4178e35df253")
+		(at 101.6 148.59)
+		(uuid "46147301-99fc-478c-9a45-109e221fdf39")
 	)
 	(no_connect
-		(at 127 148.59)
-		(uuid "249c845e-f165-457d-93dd-841276471469")
+		(at 132.08 163.83)
+		(uuid "6d418724-1bbb-4127-83c1-49f0b987e217")
 	)
 	(no_connect
-		(at 157.48 163.83)
-		(uuid "f20316b2-f054-40d9-b063-2b9bdae25a62")
+		(at 101.6 62.23)
+		(uuid "9a46413c-aeac-43f9-a3d0-173558adefe8")
 	)
 	(no_connect
-		(at 157.48 77.47)
-		(uuid "f325a176-2616-4183-ad3c-8605e11d07a5")
+		(at 132.08 77.47)
+		(uuid "f62dfbdb-e8fb-4b74-92e9-5c3d3efd316e")
 	)
 	(bus_entry
-		(at 182.88 67.31)
+		(at 157.48 153.67)
 		(size -2.54 -2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "005776e7-a57e-493d-adad-f0caf3f122c3")
+		(uuid "0a593040-38c2-49d4-b93a-f878b7bbbbe5")
 	)
 	(bus_entry
-		(at 182.88 153.67)
+		(at 157.48 67.31)
 		(size -2.54 -2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0294c6ec-d90d-4ef0-b415-897c3afa2b14")
+		(uuid "1652e217-488c-45ad-b1fb-6a3a54ec9f8c")
 	)
 	(bus_entry
-		(at 118.11 140.97)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "514c24e3-1179-4c9e-ad0b-b288f9dbd0c8")
-	)
-	(bus_entry
-		(at 118.11 138.43)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "857c2390-78d0-400f-a0bf-90bae6bd7390")
-	)
-	(bus_entry
-		(at 118.11 54.61)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5a928f0-adbf-4afc-9cd2-16ff18611696")
-	)
-	(bus_entry
-		(at 182.88 64.77)
+		(at 157.48 151.13)
 		(size -2.54 -2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c390471a-bf75-4be0-8dda-c2d18da079d0")
+		(uuid "470f63cc-c7e6-440e-a9cf-6d1b4fe13c49")
 	)
 	(bus_entry
-		(at 182.88 151.13)
+		(at 157.48 64.77)
 		(size -2.54 -2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e66098fc-43b4-49d0-9be1-94d1759505fe")
+		(uuid "53054111-5ba4-473c-888e-f9fde9b904ec")
 	)
 	(bus_entry
-		(at 118.11 52.07)
+		(at 92.71 138.43)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e76baece-11ee-4391-a154-5b5f3bafef4b")
+		(uuid "5a5015ae-05ec-4638-9f9f-578051fda1cd")
+	)
+	(bus_entry
+		(at 92.71 52.07)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e8740ac-fe4b-404a-a42c-3add4ad30920")
+	)
+	(bus_entry
+		(at 92.71 140.97)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a69e50ec-5601-4aaf-8c44-83e0e99fa1a2")
+	)
+	(bus_entry
+		(at 92.71 54.61)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f358169c-a34e-45f3-9075-84ddae4c9365")
 	)
 	(wire
 		(pts
-			(xy 157.48 156.21) (xy 165.1 156.21)
+			(xy 95.25 135.89) (xy 113.03 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "00bd0a94-bf14-43b9-a253-7ed671a7870a")
+		(uuid "0003d381-a807-4d0c-9a4d-4732fb2fed1e")
 	)
 	(wire
 		(pts
-			(xy 99.06 81.28) (xy 99.06 93.98)
+			(xy 120.65 119.38) (xy 123.19 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "038cb699-7ca4-44d1-805b-e354b1b6ab88")
+		(uuid "0206a88d-f745-4686-b28c-0c5298d58803")
 	)
 	(wire
 		(pts
-			(xy 160.02 33.02) (xy 165.1 33.02)
+			(xy 128.27 119.38) (xy 134.62 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "05016832-09ff-40eb-bc7a-c1cff75f4d3f")
-	)
-	(wire
-		(pts
-			(xy 168.91 21.59) (xy 181.61 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07384b5c-6fc2-473b-9719-b600c26d2dd7")
-	)
-	(wire
-		(pts
-			(xy 85.09 179.07) (xy 85.09 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "073a503d-a053-4c32-a45f-b5e68d5810c1")
-	)
-	(wire
-		(pts
-			(xy 146.05 33.02) (xy 146.05 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0772b991-f72f-46f3-97ee-3de3b44a8358")
-	)
-	(wire
-		(pts
-			(xy 146.05 21.59) (xy 146.05 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07c7cd83-2583-4515-8b56-05b0a4bec905")
-	)
-	(wire
-		(pts
-			(xy 120.65 52.07) (xy 134.62 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a9c682b-0e01-4ff3-a02a-00656f932fd2")
-	)
-	(wire
-		(pts
-			(xy 190.5 21.59) (xy 190.5 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bf5520c-77ab-4eec-99e1-7d844b8ff2f5")
+		(uuid "027bde61-403d-470a-ae7e-c9060b684981")
 	)
 	(bus
 		(pts
-			(xy 109.22 52.07) (xy 118.11 52.07)
+			(xy 157.48 151.13) (xy 157.48 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0c440933-5680-40bd-a158-305a04473ca6")
-	)
-	(wire
-		(pts
-			(xy 92.71 172.72) (xy 92.71 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c534cc9-fbec-461e-b8f2-474c5cacdc92")
-	)
-	(wire
-		(pts
-			(xy 149.86 21.59) (xy 146.05 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0dcdc09f-f76c-43ea-b487-6316cbf50c4e")
-	)
-	(wire
-		(pts
-			(xy 99.06 167.64) (xy 115.57 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f6ab534-1fdb-4b82-a22c-399f032577ff")
-	)
-	(wire
-		(pts
-			(xy 120.65 135.89) (xy 138.43 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11510331-2449-40f0-b9f6-822d9c115f97")
-	)
-	(wire
-		(pts
-			(xy 99.06 179.07) (xy 99.06 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "135d6a7c-4ae8-44f9-92cf-bace862086ac")
-	)
-	(wire
-		(pts
-			(xy 99.06 76.2) (xy 105.41 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16de4191-6eaf-4ed4-8198-e38e222ef3dd")
-	)
-	(wire
-		(pts
-			(xy 120.65 138.43) (xy 134.62 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b9e3a08-4a45-43f2-b5ba-1f57be306578")
-	)
-	(wire
-		(pts
-			(xy 99.06 162.56) (xy 99.06 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bc75623-8ff8-48a8-884a-2a16681ad19c")
-	)
-	(wire
-		(pts
-			(xy 120.65 49.53) (xy 138.43 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c40c08c-9de4-4ae0-bbdd-8d5b7d57e92d")
-	)
-	(wire
-		(pts
-			(xy 116.84 162.56) (xy 127 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1cb84947-a8b4-4c69-952f-552ba5fefc17")
-	)
-	(wire
-		(pts
-			(xy 99.06 186.69) (xy 99.06 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f817012-ccb3-4b87-a7e3-a56ef364054a")
-	)
-	(wire
-		(pts
-			(xy 110.49 157.48) (xy 116.84 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2014068a-ef43-400c-840d-a32ef7b36f7a")
-	)
-	(wire
-		(pts
-			(xy 165.1 110.49) (xy 165.1 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20eae58d-11b1-47eb-987f-c14a6423710e")
-	)
-	(wire
-		(pts
-			(xy 149.86 52.07) (xy 149.86 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "234bc458-e497-4e40-bac7-4a76bb6076c4")
-	)
-	(wire
-		(pts
-			(xy 186.69 21.59) (xy 190.5 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "239ef481-ecb4-4dff-8cac-8425a874ad9c")
+		(uuid "028deb98-4cb0-40cf-afcb-beb736f9e0b8")
 	)
 	(bus
 		(pts
-			(xy 182.88 64.77) (xy 182.88 67.31)
+			(xy 92.71 52.07) (xy 92.71 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "24482dc6-dfbb-411d-971a-59a8bc10b212")
+		(uuid "03abeb89-6087-4342-ac33-4b6ea18f7aa5")
 	)
 	(wire
 		(pts
-			(xy 92.71 179.07) (xy 99.06 179.07)
+			(xy 59.69 83.82) (xy 59.69 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "24612126-37bd-4cf3-bd9b-8d2c75fff234")
-	)
-	(wire
-		(pts
-			(xy 168.91 107.95) (xy 168.91 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "249395e0-7eb1-4c4b-8c58-08ce8d734d66")
-	)
-	(wire
-		(pts
-			(xy 85.09 71.12) (xy 99.06 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27a458c6-bc3d-4974-9fe0-7acc09bdab76")
-	)
-	(wire
-		(pts
-			(xy 99.06 93.98) (xy 139.7 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27c6ead7-1c54-447e-ab79-6457b7d4ec8d")
-	)
-	(wire
-		(pts
-			(xy 146.05 119.38) (xy 148.59 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "280374cc-d5bb-42e9-a7c9-05b23d63bf6d")
-	)
-	(wire
-		(pts
-			(xy 168.91 107.95) (xy 173.99 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29122f4a-ded8-466f-a01e-718c3ab50ee1")
-	)
-	(wire
-		(pts
-			(xy 165.1 29.21) (xy 165.1 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cc330ad-9d6f-434c-9d2a-a902137d7851")
-	)
-	(wire
-		(pts
-			(xy 120.65 167.64) (xy 127 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2da7d5f4-3531-4d83-b7bf-08257b931de6")
-	)
-	(wire
-		(pts
-			(xy 185.42 119.38) (xy 187.96 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e5e4e8c-d122-4a0c-b280-e8bfb8b08b33")
-	)
-	(wire
-		(pts
-			(xy 187.96 121.92) (xy 187.96 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ec70dcf-2d57-469a-aca6-54841777e728")
-	)
-	(wire
-		(pts
-			(xy 99.06 105.41) (xy 99.06 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "307165bd-1bc9-49c9-84a7-c29ba32d4130")
-	)
-	(wire
-		(pts
-			(xy 146.05 33.02) (xy 149.86 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3314c60e-88ce-4919-be60-ead7995302af")
-	)
-	(wire
-		(pts
-			(xy 157.48 74.93) (xy 161.29 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36a9c48e-3b05-43dd-b83d-14abd6b73c56")
-	)
-	(wire
-		(pts
-			(xy 116.84 76.2) (xy 127 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3875779b-4720-43f5-a4a4-d1ca3a7e6afe")
-	)
-	(wire
-		(pts
-			(xy 85.09 83.82) (xy 92.71 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3aad3e61-2610-4403-b504-75fa942c545e")
-	)
-	(wire
-		(pts
-			(xy 157.48 64.77) (xy 180.34 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b21803d-a5e2-44e7-ab22-61cc3d2a5833")
-	)
-	(wire
-		(pts
-			(xy 168.91 45.72) (xy 168.91 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ba3adc0-d299-4350-9203-c282fd8a8294")
-	)
-	(wire
-		(pts
-			(xy 168.91 105.41) (xy 168.91 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3bb27d89-b163-4602-b4b9-58df7baecf6d")
-	)
-	(wire
-		(pts
-			(xy 160.02 119.38) (xy 165.1 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c0c3510-b2cb-41b1-9cda-73d8b731caa1")
-	)
-	(wire
-		(pts
-			(xy 168.91 115.57) (xy 168.91 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e36536f-a228-44c1-8210-7f211ae5bac8")
-	)
-	(bus
-		(pts
-			(xy 182.88 67.31) (xy 200.66 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43084acd-7b7b-4234-92ff-d52d487ec52b")
-	)
-	(bus
-		(pts
-			(xy 182.88 151.13) (xy 182.88 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "454ae5aa-ac79-49c6-b381-57be19a036be")
-	)
-	(bus
-		(pts
-			(xy 109.22 138.43) (xy 118.11 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4635eb5e-32fe-4540-a550-3a5444624add")
-	)
-	(wire
-		(pts
-			(xy 165.1 24.13) (xy 165.1 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4cfba7a8-29c1-4a7b-8f62-8ba1a7927e04")
-	)
-	(wire
-		(pts
-			(xy 161.29 165.1) (xy 167.64 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d81efbd-8927-449a-a93b-468849dbb3dc")
-	)
-	(wire
-		(pts
-			(xy 85.09 172.72) (xy 85.09 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "524f9e58-b9aa-4fb2-80c2-24d7bedf6e0e")
-	)
-	(wire
-		(pts
-			(xy 168.91 119.38) (xy 173.99 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52aee10c-ae80-4bc1-bb37-f97ad45a78e2")
-	)
-	(wire
-		(pts
-			(xy 91.44 184.15) (xy 99.06 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "538015fd-e58f-4d1b-a0ba-5c9f9f41bb31")
-	)
-	(wire
-		(pts
-			(xy 168.91 21.59) (xy 168.91 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "539e9f9f-6244-4aec-ba14-631438676068")
-	)
-	(wire
-		(pts
-			(xy 85.09 157.48) (xy 99.06 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54d5ee66-2760-468b-93dd-ab399e339c95")
-	)
-	(wire
-		(pts
-			(xy 165.1 19.05) (xy 165.1 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5585a2dc-9c9d-4b01-8cc1-032ebb8e81ff")
-	)
-	(wire
-		(pts
-			(xy 153.67 107.95) (xy 165.1 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "598e9916-3959-43e1-8291-1825490e0ca6")
-	)
-	(wire
-		(pts
-			(xy 138.43 49.53) (xy 138.43 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a28ca3b-6b24-4d13-8479-f85a1eebf634")
-	)
-	(wire
-		(pts
-			(xy 99.06 81.28) (xy 115.57 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62c41920-0dc5-4708-9ec6-707df42c9c55")
-	)
-	(wire
-		(pts
-			(xy 179.07 107.95) (xy 187.96 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69afe6cd-cea3-477f-904e-1414b3341737")
-	)
-	(wire
-		(pts
-			(xy 149.86 45.72) (xy 168.91 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cb48a48-256b-4000-9f93-e825ac68e77f")
-	)
-	(wire
-		(pts
-			(xy 99.06 71.12) (xy 105.41 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f87e9ba-2a46-46d3-8326-efc1f8b31eaa")
-	)
-	(wire
-		(pts
-			(xy 154.94 33.02) (xy 160.02 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ffee0ba-a5c8-45c1-867b-5b3e6168056f")
-	)
-	(wire
-		(pts
-			(xy 110.49 71.12) (xy 116.84 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71698113-bcfa-4110-ac77-e06ec0149e18")
-	)
-	(wire
-		(pts
-			(xy 110.49 76.2) (xy 116.84 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73ab9beb-eaa5-4107-88de-1be899ab0dad")
-	)
-	(wire
-		(pts
-			(xy 120.65 81.28) (xy 127 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77b12e76-7403-48c2-9456-207207c5e797")
-	)
-	(wire
-		(pts
-			(xy 92.71 93.98) (xy 92.71 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "785490de-cdc4-4b87-b4e4-f3ceb6f32bf4")
-	)
-	(wire
-		(pts
-			(xy 187.96 107.95) (xy 187.96 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b9e7c9e-3ca7-47ba-a429-844e41f61646")
-	)
-	(wire
-		(pts
-			(xy 148.59 107.95) (xy 146.05 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7bce4324-91f2-47a1-b06a-c095722c1240")
-	)
-	(wire
-		(pts
-			(xy 139.7 179.07) (xy 139.7 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c22b2f3-98b1-49e7-b121-1502233380f5")
-	)
-	(wire
-		(pts
-			(xy 139.7 87.63) (xy 139.7 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d198114-5325-4313-ae05-ec2182f13cf0")
-	)
-	(wire
-		(pts
-			(xy 173.99 119.38) (xy 180.34 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ddcbce2-4637-4f14-9871-41631d2c5704")
-	)
-	(wire
-		(pts
-			(xy 157.48 69.85) (xy 165.1 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f6e8ed5-36ed-4306-942b-9bd7cb3cdda8")
-	)
-	(wire
-		(pts
-			(xy 168.91 33.02) (xy 175.26 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f8db687-9ff4-4bd7-adec-8c9c045b4436")
-	)
-	(wire
-		(pts
-			(xy 165.1 43.18) (xy 165.1 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8013ecde-f291-46f8-a937-e5921a2d6dfa")
+		(uuid "05efc37b-ec8f-4dc3-bd24-899337dd8b33")
 	)
 	(polyline
 		(pts
-			(xy 142.24 13.97) (xy 142.24 198.12)
+			(xy 116.84 24.13) (xy 116.84 198.12)
 		)
 		(stroke
 			(width 0)
 			(type dot)
 		)
-		(uuid "81617481-5fd6-4fc1-9863-ad8d776368ae")
+		(uuid "06832aed-fbbf-4352-8014-065e64789dbb")
 	)
 	(wire
 		(pts
-			(xy 99.06 100.33) (xy 99.06 97.79)
+			(xy 143.51 132.08) (xy 143.51 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "82f68dda-6b5d-40a0-b32a-472ab8b7d481")
+		(uuid "09b3f85e-1284-4de3-8b9b-ec5b72fc4d7f")
 	)
 	(wire
 		(pts
-			(xy 92.71 179.07) (xy 92.71 177.8)
+			(xy 59.69 175.26) (xy 67.31 175.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "875325e4-1ddd-46f3-84f4-f2cd3ecf1be8")
+		(uuid "0d3ef05a-03e9-44b3-b0f6-937b52b48eb7")
 	)
 	(wire
 		(pts
-			(xy 138.43 135.89) (xy 138.43 138.43)
+			(xy 85.09 157.48) (xy 91.44 157.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "87a624dd-c352-4bcf-8904-a5a066c07c9d")
+		(uuid "0fbc8a78-b8af-482e-8bc1-279224a48b76")
 	)
 	(wire
 		(pts
-			(xy 110.49 162.56) (xy 116.84 162.56)
+			(xy 143.51 29.21) (xy 143.51 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90e16354-0c26-402c-b614-8b813e4ec53f")
+		(uuid "1013b336-6469-4d94-b74c-58304dd3b838")
 	)
 	(wire
 		(pts
-			(xy 85.09 179.07) (xy 92.71 179.07)
+			(xy 121.92 129.54) (xy 139.7 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "92565b69-1d2d-4a49-beef-be39175d1667")
+		(uuid "14e202a2-4a95-48a2-8541-2fa7652a9b17")
 	)
 	(wire
 		(pts
-			(xy 175.26 33.02) (xy 181.61 33.02)
+			(xy 67.31 170.18) (xy 101.6 170.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9952f0a0-8f8f-4207-87bc-824b7981a7ac")
+		(uuid "1dd02e29-8f92-4061-9255-5d5493d7b065")
 	)
 	(wire
 		(pts
-			(xy 157.48 161.29) (xy 161.29 161.29)
+			(xy 132.08 62.23) (xy 154.94 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9a05de12-db7e-4c6e-8f1f-2f81f2e38e78")
+		(uuid "1eae63ec-75ed-4c4a-bfe6-72f787c166ff")
 	)
 	(wire
 		(pts
-			(xy 154.94 21.59) (xy 165.1 21.59)
+			(xy 59.69 170.18) (xy 67.31 170.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9a29fbdd-da34-45a4-a0c6-a1782b6da1e9")
+		(uuid "1feb3545-d820-4a4d-8238-c862e9885cd8")
 	)
 	(wire
 		(pts
-			(xy 85.09 170.18) (xy 92.71 170.18)
+			(xy 143.51 21.59) (xy 143.51 24.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9e3ee462-1763-4dd3-838a-cdf52555e278")
+		(uuid "20143a50-c9ff-4a86-93ed-1a9cad98fbbf")
 	)
 	(wire
 		(pts
-			(xy 157.48 62.23) (xy 180.34 62.23)
+			(xy 59.69 83.82) (xy 67.31 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9f41eae3-8f1d-49db-93d0-4d3d20174245")
+		(uuid "20664284-4458-40b5-b06b-5207cb75f150")
 	)
 	(wire
 		(pts
-			(xy 190.5 33.02) (xy 190.5 35.56)
+			(xy 95.25 167.64) (xy 101.6 167.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a18f273f-866c-445b-8098-3cac83ea5239")
+		(uuid "21309201-b5fa-41f6-a270-e1316754fddc")
 	)
 	(wire
 		(pts
-			(xy 99.06 76.2) (xy 99.06 81.28)
+			(xy 73.66 175.26) (xy 73.66 184.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a6f74a3b-3263-45ad-8b0a-fc2c08494318")
+		(uuid "223823f1-1cee-4921-bc59-afbb2f48586c")
 	)
 	(wire
 		(pts
-			(xy 147.32 173.99) (xy 147.32 176.53)
+			(xy 139.7 43.18) (xy 139.7 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a7634e05-5f69-4b08-b812-90ff14699e28")
+		(uuid "2356b27b-7ca5-4c87-b30b-f78a3445aaa3")
 	)
 	(wire
 		(pts
-			(xy 85.09 93.98) (xy 92.71 93.98)
+			(xy 123.19 107.95) (xy 120.65 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ab8cafb7-befa-4ec1-a5f9-d37f4dcd82ed")
+		(uuid "25337c3e-0580-4f26-b0ad-4be89bac7b08")
+	)
+	(wire
+		(pts
+			(xy 139.7 129.54) (xy 139.7 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "298d3ae5-f282-4a05-9012-b9cf643d7f2f")
+	)
+	(wire
+		(pts
+			(xy 161.29 21.59) (xy 165.1 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ba85691-6dda-4ec1-8409-95621b65d967")
+	)
+	(wire
+		(pts
+			(xy 85.09 162.56) (xy 91.44 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d233d53-e052-43ae-9ac3-255d7932a013")
+	)
+	(wire
+		(pts
+			(xy 121.92 52.07) (xy 121.92 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3169afa2-5880-4a13-978e-4dce87a0a409")
+	)
+	(wire
+		(pts
+			(xy 129.54 33.02) (xy 134.62 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31fa3981-2af7-43d4-bca2-e4ce57137087")
+	)
+	(wire
+		(pts
+			(xy 66.04 184.15) (xy 73.66 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33cd3dbd-438d-41be-96f1-48619a2189ba")
+	)
+	(wire
+		(pts
+			(xy 59.69 170.18) (xy 59.69 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33da7996-8710-489c-a944-5c793ffa6678")
+	)
+	(wire
+		(pts
+			(xy 95.25 81.28) (xy 101.6 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3455772b-c925-40b2-bf76-203a41afbb77")
+	)
+	(wire
+		(pts
+			(xy 139.7 110.49) (xy 139.7 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34b322ad-23cd-4695-a369-d2758d2becf1")
+	)
+	(wire
+		(pts
+			(xy 139.7 29.21) (xy 139.7 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34b3948f-d7bb-4c3c-9484-4255756c67fd")
+	)
+	(wire
+		(pts
+			(xy 95.25 49.53) (xy 113.03 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3891ae7d-e73e-4aab-91a8-f3f0f531467f")
+	)
+	(wire
+		(pts
+			(xy 124.46 45.72) (xy 143.51 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e036a6d-d99c-4195-bbd9-1e4b517ec00f")
+	)
+	(wire
+		(pts
+			(xy 148.59 119.38) (xy 154.94 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e4e46b5-5f4c-42da-93b8-b9440b3ce4d0")
+	)
+	(wire
+		(pts
+			(xy 134.62 33.02) (xy 139.7 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4779574e-6c9d-4df8-937e-fb8dc305615a")
+	)
+	(wire
+		(pts
+			(xy 67.31 175.26) (xy 73.66 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ebfdf6d-74c1-4fb0-8044-0aa646c2ee39")
+	)
+	(wire
+		(pts
+			(xy 59.69 157.48) (xy 73.66 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50b85ffd-129b-4fe6-bd45-7f2ebb97e6f8")
+	)
+	(wire
+		(pts
+			(xy 162.56 121.92) (xy 162.56 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "541efa91-3c1d-4d95-b7b2-e8322b095994")
 	)
 	(bus
 		(pts
-			(xy 182.88 153.67) (xy 200.66 153.67)
+			(xy 83.82 138.43) (xy 92.71 138.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ade9f254-e823-4b87-b913-5065980d6b17")
+		(uuid "5a923559-7dbd-4c14-a17b-abaf1486ff59")
 	)
 	(wire
 		(pts
-			(xy 85.09 86.36) (xy 85.09 83.82)
+			(xy 134.62 119.38) (xy 139.7 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b3321dec-4f60-4165-b62b-d44cf8ac20a2")
+		(uuid "5ac4fefe-c1f6-4d17-8ef0-c1fa2ea64c17")
 	)
 	(wire
 		(pts
-			(xy 161.29 78.74) (xy 167.64 78.74)
+			(xy 124.46 21.59) (xy 120.65 21.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b33c227e-dacf-4f5a-bf82-1bc60ef5570a")
+		(uuid "5b0cb48c-3087-4db9-a88e-ea5de7d45e42")
 	)
 	(wire
 		(pts
-			(xy 99.06 191.77) (xy 99.06 194.31)
+			(xy 73.66 71.12) (xy 80.01 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b829f6ee-47db-413f-88c5-61efae73fb22")
+		(uuid "5b91726a-39cd-4e98-954f-a8735a3e42fc")
 	)
 	(wire
 		(pts
-			(xy 165.1 105.41) (xy 165.1 107.95)
+			(xy 73.66 100.33) (xy 73.66 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b994db18-ed6c-4478-9fad-5ca9c520632e")
+		(uuid "5dbfba0b-98ad-4843-8b35-a8d629d1f75f")
 	)
 	(wire
 		(pts
-			(xy 157.48 151.13) (xy 180.34 151.13)
+			(xy 73.66 76.2) (xy 73.66 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bcfb2636-14cd-441e-a796-c658f3b96dc3")
+		(uuid "5f4851ee-ec11-43c1-b6a1-b31536c8de67")
 	)
 	(wire
 		(pts
-			(xy 85.09 170.18) (xy 85.09 157.48)
+			(xy 143.51 21.59) (xy 156.21 21.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "be1df999-46fa-4417-a20c-b63fbd7574f3")
+		(uuid "647b173b-a6f7-4364-9a3c-b758558e28d4")
 	)
 	(wire
 		(pts
-			(xy 92.71 83.82) (xy 127 83.82)
+			(xy 73.66 175.26) (xy 114.3 175.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "befb0611-49eb-458e-b203-40ff9f3b5106")
+		(uuid "66a6feab-5f6f-4f51-8e0e-3f49740a0dfd")
+	)
+	(wire
+		(pts
+			(xy 59.69 71.12) (xy 73.66 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "670a505c-201d-438d-87c2-2581b2ab3246")
+	)
+	(wire
+		(pts
+			(xy 120.65 107.95) (xy 120.65 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6940f382-2767-4618-ab0c-852f3d368a49")
+	)
+	(wire
+		(pts
+			(xy 153.67 107.95) (xy 162.56 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ced8195-c454-4ed9-b3c1-3b8acb92008e")
+	)
+	(wire
+		(pts
+			(xy 67.31 83.82) (xy 101.6 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f74cd8a-d1f7-4094-8874-236de6900eab")
+	)
+	(wire
+		(pts
+			(xy 161.29 33.02) (xy 165.1 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "700b12e9-9a46-49c6-b5ff-1e95f4e2c58c")
+	)
+	(wire
+		(pts
+			(xy 132.08 74.93) (xy 135.89 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "709e4357-ba11-4e47-8457-7f235bd8713b")
+	)
+	(wire
+		(pts
+			(xy 149.86 33.02) (xy 156.21 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72863521-0091-4b50-a563-ae5ca511a2ce")
+	)
+	(wire
+		(pts
+			(xy 95.25 52.07) (xy 109.22 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7333b29c-01e0-4536-bd59-576739eb51ca")
+	)
+	(wire
+		(pts
+			(xy 120.65 119.38) (xy 120.65 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7968a9cc-9432-4877-a757-d534c6a8bea8")
+	)
+	(wire
+		(pts
+			(xy 59.69 88.9) (xy 67.31 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d1dca21-5dc5-43e0-bb6a-fbaf4f5f3c3d")
+	)
+	(wire
+		(pts
+			(xy 120.65 21.59) (xy 120.65 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dbc47cc-81af-4caa-b8e5-5947abd5e336")
+	)
+	(wire
+		(pts
+			(xy 139.7 24.13) (xy 139.7 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e188341-de42-47b5-8759-46e8143acd3a")
+	)
+	(wire
+		(pts
+			(xy 73.66 157.48) (xy 80.01 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e46c46b-b400-4833-b6e3-99049522eac9")
+	)
+	(wire
+		(pts
+			(xy 162.56 107.95) (xy 162.56 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "825b113a-b9c3-42c6-a5ce-9238b328bcb8")
+	)
+	(wire
+		(pts
+			(xy 128.27 107.95) (xy 139.7 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84c1ba11-045b-4ec3-9fdb-40024d2ae6b5")
+	)
+	(wire
+		(pts
+			(xy 95.25 138.43) (xy 109.22 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89c141e7-9642-4468-b38e-761308c094e5")
+	)
+	(wire
+		(pts
+			(xy 85.09 71.12) (xy 91.44 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c31e287-05e6-4153-8aa7-c1fb50993dd9")
+	)
+	(wire
+		(pts
+			(xy 91.44 157.48) (xy 101.6 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c5608aa-7d45-43e3-b1ba-18427aadadfc")
+	)
+	(wire
+		(pts
+			(xy 124.46 132.08) (xy 143.51 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc36ca9-bd58-46b8-8f1f-eb6b2f8c6c7c")
+	)
+	(wire
+		(pts
+			(xy 73.66 162.56) (xy 73.66 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d85f921-46d9-44e8-9af3-9d03b68260aa")
+	)
+	(wire
+		(pts
+			(xy 132.08 64.77) (xy 154.94 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e85677e-dfee-4253-b79e-38cdbd0c6a0a")
 	)
 	(bus
 		(pts
-			(xy 118.11 138.43) (xy 118.11 140.97)
+			(xy 92.71 138.43) (xy 92.71 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c1b7563f-7ab0-4966-9972-39564d6c3974")
+		(uuid "8e932ff0-e1bc-4e61-bfff-e501be27e02a")
 	)
 	(wire
 		(pts
-			(xy 165.1 129.54) (xy 165.1 119.38)
+			(xy 73.66 88.9) (xy 114.3 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c3548627-cbb7-4db2-b23c-e4875e6a995c")
+		(uuid "929417e8-4afe-45d4-aef4-b3eab10b1b8b")
 	)
 	(wire
 		(pts
-			(xy 99.06 93.98) (xy 99.06 97.79)
+			(xy 143.51 105.41) (xy 143.51 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c4500761-004c-44c7-b4af-dea15775b5e9")
+		(uuid "98979903-ca2e-4ba4-a95f-75dcb261e8e8")
 	)
 	(wire
 		(pts
-			(xy 161.29 74.93) (xy 161.29 78.74)
+			(xy 132.08 151.13) (xy 154.94 151.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c586f61a-99a5-4590-88d7-27dd94a97b23")
+		(uuid "9932d7c8-7282-4307-a4c5-441c9cf83100")
 	)
 	(wire
 		(pts
-			(xy 85.09 83.82) (xy 85.09 71.12)
+			(xy 91.44 71.12) (xy 101.6 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c716b68b-1afc-4acf-a785-7d77eeeb7314")
+		(uuid "99e88b5a-9bcd-449d-894a-2e8062fa983b")
 	)
 	(bus
 		(pts
-			(xy 118.11 52.07) (xy 118.11 54.61)
+			(xy 157.48 67.31) (xy 175.26 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cab9504d-9974-4e96-8a07-29ec28ce6817")
+		(uuid "9bb6a154-57fa-493c-87b6-280ca67919cc")
 	)
 	(wire
 		(pts
-			(xy 146.05 107.95) (xy 146.05 119.38)
+			(xy 143.51 19.05) (xy 143.51 21.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cb144cb9-a603-4be9-84dd-763073fe69e1")
+		(uuid "9d000e8e-d299-45df-8f57-2b5f9c93d4d2")
 	)
 	(wire
 		(pts
-			(xy 168.91 29.21) (xy 168.91 33.02)
+			(xy 160.02 119.38) (xy 162.56 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cd3e0f5b-8874-4226-afed-9294350e8e00")
+		(uuid "9e71ae49-b389-4514-b400-2139c5ae65d0")
 	)
 	(wire
 		(pts
-			(xy 147.32 138.43) (xy 147.32 129.54)
+			(xy 165.1 21.59) (xy 165.1 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cd60e3e5-dc17-488e-a066-f6d913dd68d7")
+		(uuid "9faa348a-4fa0-4962-b1ae-9112bd6c066d")
 	)
 	(wire
 		(pts
-			(xy 146.05 119.38) (xy 146.05 121.92)
+			(xy 139.7 115.57) (xy 139.7 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d3568380-1c06-4f91-8473-7dbe13df944e")
+		(uuid "a1841a1b-70bf-4c06-bc5a-50e2c8844843")
 	)
 	(wire
 		(pts
-			(xy 116.84 71.12) (xy 127 71.12)
+			(xy 114.3 175.26) (xy 114.3 173.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d4e9315d-9552-4860-bf6a-1d64f5b8bb8d")
+		(uuid "a1f21c52-7a36-4374-a7d4-e10e6f8db1d3")
 	)
 	(wire
 		(pts
-			(xy 147.32 87.63) (xy 147.32 90.17)
+			(xy 73.66 191.77) (xy 73.66 194.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dc68b92b-c193-44dd-af54-5378f432abce")
+		(uuid "a2946d9f-3802-4860-b15d-0828a26422a7")
 	)
 	(wire
 		(pts
-			(xy 99.06 167.64) (xy 99.06 179.07)
+			(xy 135.89 165.1) (xy 142.24 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ddddd36a-b5df-4f7d-91d0-d9bf24634132")
+		(uuid "a6d8bb5b-446e-4c48-bf8e-60e090454d4d")
 	)
 	(wire
 		(pts
-			(xy 92.71 93.98) (xy 99.06 93.98)
+			(xy 143.51 107.95) (xy 148.59 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e1bd1fe3-adcc-436e-a8e7-d21897233187")
+		(uuid "a7daabad-4860-4c77-8aaf-fc65228d01c0")
 	)
 	(wire
 		(pts
-			(xy 168.91 132.08) (xy 168.91 119.38)
+			(xy 132.08 69.85) (xy 139.7 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e787d7cd-1a0d-4926-ba1f-945c93289d4f")
+		(uuid "ab088f62-801f-4e0a-8e27-681e365200a2")
 	)
 	(wire
 		(pts
-			(xy 153.67 119.38) (xy 160.02 119.38)
+			(xy 73.66 167.64) (xy 73.66 175.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e844cab7-5141-49d0-be45-3d375c0e0e02")
+		(uuid "ab4a9da4-f613-4057-a953-036f96981127")
 	)
 	(wire
 		(pts
-			(xy 165.1 115.57) (xy 165.1 119.38)
+			(xy 85.09 76.2) (xy 91.44 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e8b422aa-6bd2-4841-b725-63e16a46ecc2")
+		(uuid "ac00a5c9-d328-408a-a4b7-a7fb3580b8bc")
 	)
 	(wire
 		(pts
-			(xy 149.86 138.43) (xy 149.86 132.08)
+			(xy 120.65 33.02) (xy 120.65 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e9dfa2ec-4cb4-49e8-81dc-eab41c08598a")
+		(uuid "ac0de33f-5eef-4c41-b615-a4420042a201")
 	)
 	(wire
 		(pts
-			(xy 99.06 179.07) (xy 139.7 179.07)
+			(xy 66.04 97.79) (xy 73.66 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "eb3df0f1-adb2-4329-b6c6-cb828c6057b0")
+		(uuid "adf5eba8-8e57-442c-afb0-712023294d51")
 	)
 	(wire
 		(pts
-			(xy 161.29 161.29) (xy 161.29 165.1)
+			(xy 139.7 19.05) (xy 139.7 21.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ebe77e75-48f1-4f6f-91f4-19908ac70fa2")
+		(uuid "aee4dc68-ade7-4bf7-8bf5-b0b093b8af31")
 	)
 	(wire
 		(pts
-			(xy 147.32 52.07) (xy 147.32 43.18)
+			(xy 73.66 105.41) (xy 73.66 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "edfaf2dd-43c3-466a-9d94-61ec863e22d0")
+		(uuid "b0a1b2e0-6342-4f2e-a27c-d682875332ef")
 	)
 	(wire
 		(pts
-			(xy 92.71 170.18) (xy 127 170.18)
+			(xy 143.51 119.38) (xy 148.59 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ee72e7e4-934f-4147-99b1-b618827ec8af")
+		(uuid "b0e6be2d-aa35-430b-a1c2-c8fffeba3fba")
 	)
 	(wire
 		(pts
-			(xy 157.48 148.59) (xy 180.34 148.59)
+			(xy 124.46 138.43) (xy 124.46 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "eed15921-6f57-4b2c-a8e5-168ce2dc534d")
+		(uuid "b1a62997-8e92-4e1d-a32c-af3dd93774d3")
 	)
 	(wire
 		(pts
-			(xy 149.86 132.08) (xy 168.91 132.08)
+			(xy 121.92 173.99) (xy 121.92 176.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f09e4523-4ade-412b-8313-ac1fe871f117")
+		(uuid "b3e3d30d-d8bf-4ded-861d-83547e31215a")
 	)
 	(wire
 		(pts
-			(xy 116.84 157.48) (xy 127 157.48)
+			(xy 113.03 135.89) (xy 113.03 138.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f2f9c498-1795-44c0-be04-8c9c0ce0d095")
+		(uuid "b430ecfd-7bef-4a02-98fa-cec1f9477af2")
 	)
 	(wire
 		(pts
-			(xy 186.69 33.02) (xy 190.5 33.02)
+			(xy 121.92 138.43) (xy 121.92 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f3a35c33-31ba-4f34-8331-36d36d14b356")
+		(uuid "b724c736-538d-442b-95ff-ce50202a1382")
 	)
 	(wire
 		(pts
-			(xy 91.44 97.79) (xy 99.06 97.79)
+			(xy 91.44 76.2) (xy 101.6 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f3c8a5b9-5977-4ca0-9812-54e17f8be47e")
+		(uuid "b764a49d-ea74-421f-bff6-53739cd7f042")
 	)
 	(wire
 		(pts
-			(xy 147.32 43.18) (xy 165.1 43.18)
+			(xy 135.89 78.74) (xy 142.24 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f547a407-aade-40dd-a027-4d9bcfef7a04")
+		(uuid "ba2e33ac-e359-469d-94c2-bd3471d881cc")
 	)
 	(wire
 		(pts
-			(xy 99.06 162.56) (xy 105.41 162.56)
+			(xy 135.89 74.93) (xy 135.89 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f5fc3b74-4400-41bb-9746-20847417ed6a")
+		(uuid "ba85a1eb-bf1f-4bef-9c35-f1fffeb6056f")
 	)
 	(wire
 		(pts
-			(xy 147.32 129.54) (xy 165.1 129.54)
+			(xy 132.08 148.59) (xy 154.94 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f7452a18-e5fb-4098-b304-4b272fe4e880")
+		(uuid "c390a681-1580-43b3-978d-10be3a539b1f")
 	)
 	(wire
 		(pts
-			(xy 168.91 19.05) (xy 168.91 21.59)
+			(xy 73.66 162.56) (xy 80.01 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fa7f3bf3-ca56-46eb-b382-201185cbb76d")
+		(uuid "c477ec70-5c19-43b9-aaa6-8cd72dc59a5b")
+	)
+	(bus
+		(pts
+			(xy 83.82 52.07) (xy 92.71 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8d6401c-355d-43fb-9984-ce728ba2e3a0")
 	)
 	(wire
 		(pts
-			(xy 99.06 157.48) (xy 105.41 157.48)
+			(xy 91.44 162.56) (xy 101.6 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "facef1f3-4817-4f73-80cc-3905da33b908")
+		(uuid "ca772dc8-1cc2-4bd7-99bb-9137470d18e1")
 	)
 	(wire
 		(pts
-			(xy 85.09 93.98) (xy 85.09 91.44)
+			(xy 67.31 88.9) (xy 73.66 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fc75e1c5-ec1c-45dd-939b-50365157041d")
+		(uuid "ccf2c548-096b-4199-8c60-586651584fc2")
+	)
+	(bus
+		(pts
+			(xy 157.48 153.67) (xy 175.26 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce13b76c-c013-47d2-aec8-7b8b5fa2b790")
 	)
 	(wire
 		(pts
-			(xy 92.71 86.36) (xy 92.71 83.82)
+			(xy 165.1 33.02) (xy 165.1 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fce8bbc7-42be-47e0-abfe-122cfc866de1")
+		(uuid "ce7be831-f0e3-4f01-b233-ea62e9b9fd95")
+	)
+	(wire
+		(pts
+			(xy 73.66 81.28) (xy 90.17 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6bca5a4-9b0c-4a05-807c-c53453a63003")
+	)
+	(wire
+		(pts
+			(xy 143.51 107.95) (xy 143.51 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc0fe7be-73ae-4e4f-a30f-3f0017b4bce8")
+	)
+	(wire
+		(pts
+			(xy 120.65 33.02) (xy 124.46 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc313fbc-3744-497b-83a8-84a5d913f8d8")
+	)
+	(wire
+		(pts
+			(xy 132.08 156.21) (xy 139.7 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcdaf160-2ccf-4a3a-8a86-a26bdbb2817b")
+	)
+	(wire
+		(pts
+			(xy 73.66 167.64) (xy 90.17 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfa7ca49-d2a7-4e3a-a36b-3ee2b68499ce")
+	)
+	(wire
+		(pts
+			(xy 139.7 105.41) (xy 139.7 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0d0df13-5377-4b11-b9de-ab037403ff39")
+	)
+	(wire
+		(pts
+			(xy 73.66 88.9) (xy 73.66 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0d5eba9-4dd1-491d-9d39-2e99015b0338")
+	)
+	(wire
+		(pts
+			(xy 143.51 33.02) (xy 149.86 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6f10212-770d-485c-90e5-31e854a77a73")
+	)
+	(wire
+		(pts
+			(xy 73.66 186.69) (xy 73.66 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e99a5b12-7d0f-4b86-a38a-9cf3d3eb51d5")
+	)
+	(wire
+		(pts
+			(xy 114.3 88.9) (xy 114.3 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee9f3278-b51c-413a-9454-1f066ce18b02")
+	)
+	(bus
+		(pts
+			(xy 157.48 64.77) (xy 157.48 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2304b22-799c-4174-94b4-2d3bf3e5eb10")
+	)
+	(wire
+		(pts
+			(xy 135.89 161.29) (xy 135.89 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f46ea8f0-b091-4dfe-8cd1-c7754b22ca25")
+	)
+	(wire
+		(pts
+			(xy 73.66 81.28) (xy 73.66 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6364632-a214-4ab2-b9db-f6317b3fd7d0")
+	)
+	(wire
+		(pts
+			(xy 121.92 43.18) (xy 139.7 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7a1fee6-ca5f-401f-9d81-31ebf4e664b3")
+	)
+	(wire
+		(pts
+			(xy 132.08 161.29) (xy 135.89 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f92b658e-1d57-4cf1-93b4-3c1834f1404b")
+	)
+	(wire
+		(pts
+			(xy 113.03 49.53) (xy 113.03 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb277a95-132c-4616-bfb8-40fedb03ba8d")
+	)
+	(wire
+		(pts
+			(xy 143.51 115.57) (xy 143.51 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc31920f-845b-46fd-b56e-abe82cc17614")
+	)
+	(wire
+		(pts
+			(xy 121.92 87.63) (xy 121.92 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcf6afc9-41d6-4379-a6fe-aef901783b8d")
+	)
+	(wire
+		(pts
+			(xy 143.51 45.72) (xy 143.51 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe1432da-ece5-4944-b222-e5598bf3d390")
+	)
+	(wire
+		(pts
+			(xy 124.46 52.07) (xy 124.46 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feb37319-fd2b-4988-a4e4-7c31bdfc5267")
+	)
+	(wire
+		(pts
+			(xy 73.66 76.2) (xy 80.01 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff13cfe6-3180-4f33-8e8a-010a41c8dc41")
+	)
+	(wire
+		(pts
+			(xy 129.54 21.59) (xy 139.7 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffecdddd-5d11-4cce-8ffa-178121f15bf4")
 	)
 	(label "CAN1-"
-		(at 120.65 52.07 0)
+		(at 95.25 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "28365a12-935d-4b5b-b6b4-cabc26f8f38e")
-	)
-	(label "CAN1+"
-		(at 120.65 49.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4ba4baa0-e026-4b8a-8aee-4833e2f2e1e5")
-	)
-	(label "CAN2-"
-		(at 120.65 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7937d148-bec4-4cd7-a770-307e13607881")
-	)
-	(label "CAN2_RX"
-		(at 165.1 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7a77e488-b1ac-48e2-9576-67539b345f09")
-	)
-	(label "CAN2+"
-		(at 120.65 135.89 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "823468ca-cafb-4d49-8bfd-2133edef8eff")
+		(uuid "1a09a97b-02b6-43e3-b095-084716ec8ad4")
 	)
 	(label "CAN2_TX"
-		(at 165.1 148.59 0)
+		(at 139.7 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "8a101a1a-3dfd-4f4d-b17e-ff665a5a0d48")
-	)
-	(label "CAN1_TX"
-		(at 163.83 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "95407fec-b381-4d59-b4a0-71a7280761a1")
+		(uuid "223113a4-af5d-45d9-899c-9222b2f45944")
 	)
 	(label "CAN1_RX"
-		(at 163.83 64.77 0)
+		(at 138.43 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e1cf293d-5a83-43f6-9e74-fb9765df4007")
+		(uuid "5ac15c4a-fb34-4d61-8945-06ce7a6cf96a")
 	)
-	(hierarchical_label "{CAN1_MCU}"
-		(shape bidirectional)
-		(at 200.66 67.31 0)
+	(label "CAN2-"
+		(at 95.25 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify left bottom)
 		)
-		(uuid "03a7ecc6-b2ac-4a4d-a0f5-e466fd3f09a4")
+		(uuid "76311644-8252-47af-a40e-af5470f83966")
 	)
-	(hierarchical_label "{CAN1}"
-		(shape bidirectional)
-		(at 109.22 52.07 180)
+	(label "CAN2_RX"
+		(at 139.7 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "1c169894-22bc-4320-b9da-ec10d0af0580")
+		(uuid "ce455753-f8f4-4838-8662-ccdd20a27898")
 	)
-	(hierarchical_label "{CAN2}"
-		(shape bidirectional)
-		(at 109.22 138.43 180)
+	(label "CAN1_TX"
+		(at 138.43 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "2cdaab9c-da98-40c8-95e0-9a5c76bf2c04")
+		(uuid "e35c323e-b9f2-444a-82be-624c1f623ade")
 	)
-	(hierarchical_label "GND_CAN_ISO2"
-		(shape output)
-		(at 91.44 184.15 180)
+	(label "CAN1+"
+		(at 95.25 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "384335d0-fcf2-4fbc-9593-34b454a64c03")
+		(uuid "e44af6be-8256-4bec-827b-fda945d3d0aa")
+	)
+	(label "CAN2+"
+		(at 95.25 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eafdb8df-6a99-4f49-b198-5d46eb7992a1")
 	)
 	(hierarchical_label "STBY_CAN_1"
 		(shape input)
-		(at 167.64 78.74 0)
+		(at 142.24 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "53e5bbd3-1865-418d-8fc0-4a8974afe8a9")
+		(uuid "24ebd2bf-b970-44ec-b3b7-d3ccaee54bc3")
 	)
-	(hierarchical_label "GND_CAN_ISO1"
-		(shape output)
-		(at 91.44 97.79 180)
+	(hierarchical_label "{CAN1_MCU}"
+		(shape bidirectional)
+		(at 175.26 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6c960e8d-5470-44bb-b292-540f1da34176")
+	)
+	(hierarchical_label "STBY_CAN_2"
+		(shape input)
+		(at 142.24 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7fd991c2-3e1a-4fa1-9fa9-6de418e5590e")
+	)
+	(hierarchical_label "{CAN2_MCU}"
+		(shape bidirectional)
+		(at 175.26 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c31539dd-cac7-4bce-bcad-cfef3ddd8fe2")
+	)
+	(hierarchical_label "{CAN2}"
+		(shape bidirectional)
+		(at 83.82 138.43 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "77244aa9-fe83-4892-a10e-a86636097445")
+		(uuid "d10887fc-8f17-40b8-9d4c-274c5f4e9e68")
 	)
-	(hierarchical_label "STBY_CAN_2"
-		(shape input)
-		(at 167.64 165.1 0)
+	(hierarchical_label "GND_CAN_ISO1"
+		(shape output)
+		(at 66.04 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "7cf20787-94b4-42c6-b0f4-a02d958eb18d")
+		(uuid "d7418218-87e5-4f96-ab0d-7e1512633bd3")
 	)
-	(hierarchical_label "{CAN2_MCU}"
+	(hierarchical_label "{CAN1}"
 		(shape bidirectional)
-		(at 200.66 153.67 0)
+		(at 83.82 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "dac52522-21f4-496c-8e4a-b6cfbd3548b5")
+		(uuid "ddc4e0fd-eda7-431f-87d6-af6c8034cc21")
+	)
+	(hierarchical_label "GND_CAN_ISO2"
+		(shape output)
+		(at 66.04 184.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f3e4ba24-4e8c-4e87-981d-0f35db98de46")
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 151.13 119.38 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "04b70356-347a-45b5-bb5a-9cbef941b12a")
-		(property "Reference" "C38"
-			(at 151.13 121.92 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "47u"
-			(at 151.13 124.46 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 151.13 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 151.13 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 151.13 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 151.13 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b4429320-66c3-41e4-8383-9ec3a7f3707e")
-		)
-		(pin "1"
-			(uuid "ed1b37cc-46b6-41af-954a-a8708aaf80dd")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 107.95 76.2 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "054b3d6f-3c59-443f-b390-4988cbbb1694")
-		(property "Reference" "FB3"
-			(at 102.87 77.47 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2K@100MHz"
-			(at 106.68 80.01 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 107.95 77.978 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
-			(at 107.95 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 107.95 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "623-2508052027Y1"
-			(at 107.95 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "86f78ba5-4c1f-4900-9df2-15024f50e008")
-		)
-		(pin "1"
-			(uuid "1218872a-25f9-4a61-9712-cd4abb1a7b80")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "FB3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 152.4 33.02 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "07f52c8d-8f35-487f-b43a-6d9503c9d2eb")
-		(property "Reference" "C40"
-			(at 152.4 35.56 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "47u"
-			(at 152.4 38.1 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 152.4 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 152.4 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 152.4 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 152.4 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1d962079-7554-4117-bf3e-c88e3513b90e")
-		)
-		(pin "1"
-			(uuid "255a5840-7a0c-46fd-b37b-9c61e76cf854")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "PWR_FLAG_1")
-		(lib_id "power:PWR_FLAG")
-		(at 160.02 33.02 180)
+		(at 127 21.59 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3973,10 +3602,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0a63b30e-786f-42bd-b218-1ad7f444f012")
-		(property "Reference" "#FLG05"
-			(at 160.02 34.925 0)
-			(hide yes)
+		(uuid "007d2ce7-6955-4aef-a766-1f93b6c9fa89")
+		(property "Reference" "C39"
+			(at 127.0063 15.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3985,8 +3613,8 @@
 				)
 			)
 		)
-		(property "Value" "PWR_FLAG"
-			(at 160.02 38.1 0)
+		(property "Value" "47u"
+			(at 127.0063 17.78 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3995,231 +3623,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 160.02 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 160.02 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6c58827a-1ca2-442e-a8d5-ae47537fc3e4")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#FLG05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Interface_CAN_LIN:ADM3057ExRW")
-		(at 142.24 156.21 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "185753b7-be5d-461e-a169-59864251b3c1")
-		(property "Reference" "U6"
-			(at 137.5567 173.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ADM3057ExRW"
-			(at 137.5567 176.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
-			(at 142.24 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3055E-3057E.pdf"
-			(at 149.86 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Isolated CAN FD Transceiver, integrated isolated DC-DC converter, 12Mbps, SOIC-20W"
-			(at 137.922 186.944 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "584-ADM3057EBRWZ"
-			(at 142.24 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "0182df44-364f-45f6-b966-1bd7bb157949")
-		)
-		(pin "4"
-			(uuid "d5a173e3-4ed5-4063-8156-8a55aa90b05a")
-		)
-		(pin "1"
-			(uuid "121885b9-3bb3-4dbb-aaac-f8d59dfbb7a3")
-		)
-		(pin "11"
-			(uuid "6841b9ac-dcb7-4b29-b3d9-049404a3d9c9")
-		)
-		(pin "12"
-			(uuid "6d04fe22-a687-4f44-9b36-e050e579a1f9")
-		)
-		(pin "14"
-			(uuid "1fd602f3-3285-4c93-8180-c7f00fd783b2")
-		)
-		(pin "6"
-			(uuid "4c2f3b04-bf01-404b-bd67-69d33e731191")
-		)
-		(pin "19"
-			(uuid "28080a3c-e2be-47bf-b662-7a2ee894d87e")
-		)
-		(pin "3"
-			(uuid "63ebfeec-8375-428a-88dc-248e72168f4e")
-		)
-		(pin "18"
-			(uuid "0c93ac73-590f-45fd-9afd-afb57256035a")
-		)
-		(pin "20"
-			(uuid "145939e5-fabb-4cd3-8089-57193f1a8ff8")
-		)
-		(pin "8"
-			(uuid "8b10419e-615e-4ac6-84ab-068adf46b2b4")
-		)
-		(pin "15"
-			(uuid "86abe1d5-97cf-40ea-93b1-862e2fc1a461")
-		)
-		(pin "2"
-			(uuid "626071a7-0818-42c7-b8c7-efa39afc91b5")
-		)
-		(pin "13"
-			(uuid "f5091ba7-6519-43cc-acad-9e2a2d88e52b")
-		)
-		(pin "16"
-			(uuid "52186a24-2dac-479d-85fd-a392f9ca330f")
-		)
-		(pin "9"
-			(uuid "eb547e2f-f3c3-4b8c-81ca-11a219f9a024")
-		)
-		(pin "10"
-			(uuid "5a97b67f-a353-497c-aa4f-94985a39bfad")
-		)
-		(pin "17"
-			(uuid "82280ca8-6cde-42f2-89eb-6b1aed1acecf")
-		)
-		(pin "7"
-			(uuid "d14fb802-f95a-4a55-96ec-0360b410aaf6")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 118.11 167.64 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1edc4e72-6eee-45d6-bf01-27ff6ebc1d43")
-		(property "Reference" "R16"
-			(at 115.57 165.1 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100K"
-			(at 120.65 165.1 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 118.11 167.64 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 127 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4230,7 +3635,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 167.64 0)
+			(at 127 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4240,8 +3645,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
-			(at 118.11 167.64 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 127 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4252,7 +3657,7 @@
 			)
 		)
 		(property "Mouser Part Number" "."
-			(at 118.11 167.64 0)
+			(at 127 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4261,16 +3666,16 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "bfe63024-2926-4afe-b076-6878b7218b35")
-		)
 		(pin "2"
-			(uuid "56fb6bd1-de14-40ce-9012-477503bb90a0")
+			(uuid "c8cc88b2-b1ae-4c5b-8d73-b90bc88c7a0b")
+		)
+		(pin "1"
+			(uuid "d32313b5-2438-4828-bfa7-ef5a4a9bc83c")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "R16")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -4278,7 +3683,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 99.06 107.95 0)
+		(at 165.1 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4287,9 +3692,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "21b7723c-4615-4ea9-ba17-3e224bad3d93")
-		(property "Reference" "#PWR032"
-			(at 99.06 114.3 0)
+		(uuid "034d4f44-5a93-4a0d-91b7-074216b017fa")
+		(property "Reference" "#PWR045"
+			(at 165.1 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4300,7 +3705,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 99.06 113.03 0)
+			(at 165.1 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4310,7 +3715,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 107.95 0)
+			(at 165.1 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4321,7 +3726,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 107.95 0)
+			(at 165.1 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4332,7 +3737,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 99.06 107.95 0)
+			(at 165.1 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4343,341 +3748,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b96f2b25-a2fc-48ea-b654-bd10851e1794")
+			(uuid "8faf0d2a-6b86-4222-94bd-e59c90478900")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Interface_CAN_LIN:ADM3057ExRW")
-		(at 142.24 69.85 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "288abe92-d046-4680-be79-578b6dc85e96")
-		(property "Reference" "U5"
-			(at 137.5567 87.63 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ADM3057ExRW"
-			(at 137.5567 90.17 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
-			(at 142.24 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3055E-3057E.pdf"
-			(at 149.86 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Isolated CAN FD Transceiver, integrated isolated DC-DC converter, 12Mbps, SOIC-20W"
-			(at 137.922 100.584 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "584-ADM3057EBRWZ"
-			(at 142.24 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "a5a022a5-eec0-4aa0-8577-69ec27a5e6fe")
-		)
-		(pin "4"
-			(uuid "ed8df23f-44cd-4a37-879f-19e2727933f8")
-		)
-		(pin "1"
-			(uuid "a3753755-7c62-41c2-bbd9-a9704bb6adc8")
-		)
-		(pin "11"
-			(uuid "8dd9cada-f892-43fc-a604-a5693678c98d")
-		)
-		(pin "12"
-			(uuid "1fd82393-f724-46b7-8664-a890691cafca")
-		)
-		(pin "14"
-			(uuid "7b19f60c-94a2-4b7c-92b4-0083fa86bd0a")
-		)
-		(pin "6"
-			(uuid "c1eff3d2-ef03-483b-8e67-a767c4fde663")
-		)
-		(pin "19"
-			(uuid "87a2ff96-6d80-43cd-8f00-d0b7885d751f")
-		)
-		(pin "3"
-			(uuid "9cd3dbcd-b39b-43e8-9a0b-7702825483a8")
-		)
-		(pin "18"
-			(uuid "78371feb-9e60-4432-a7d2-ad48ea26be5f")
-		)
-		(pin "20"
-			(uuid "d9a9320d-030d-415c-88b2-8b2e67f87238")
-		)
-		(pin "8"
-			(uuid "cce0c4aa-0884-459a-a2e2-22b31afccc0a")
-		)
-		(pin "15"
-			(uuid "bdc303e0-cc34-4761-b031-1f2b2a768ae1")
-		)
-		(pin "2"
-			(uuid "0ad05f17-7850-4385-9740-d0ba44cf4ac4")
-		)
-		(pin "13"
-			(uuid "dd568683-e04f-4343-a7bc-160f3a99b6f1")
-		)
-		(pin "16"
-			(uuid "712a9e01-44cc-4384-8e72-30c8ba024f40")
-		)
-		(pin "9"
-			(uuid "c007b088-16f7-487c-8522-7d86945b98e7")
-		)
-		(pin "10"
-			(uuid "5301cc07-1933-4def-b310-b31d4eebb69c")
-		)
-		(pin "17"
-			(uuid "a6f9a9ef-c6e4-477c-97c0-a584ae3bddb2")
-		)
-		(pin "7"
-			(uuid "b8e501f6-b0e8-4e39-93a6-7f239418cc2c")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 99.06 160.02 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "28d7883d-3ced-4905-bf62-9aaf3b84cda1")
-		(property "Reference" "C33"
-			(at 92.71 158.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "47u"
-			(at 92.71 161.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 99.06 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 99.06 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 99.06 160.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9828bb05-7910-4cda-8626-9ba86df871ca")
-		)
-		(pin "1"
-			(uuid "e7affe0d-6241-4104-9e08-e64fdb924ff4")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 99.06 73.66 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4b4af4a0-dd67-4f44-819f-e59a423b223e")
-		(property "Reference" "C31"
-			(at 92.71 72.39 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "47u"
-			(at 92.71 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 99.06 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 99.06 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 99.06 73.66 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "94d2819b-7d6b-4084-8b1d-1dc760aa8e6e")
-		)
-		(pin "1"
-			(uuid "70f2836b-5a83-46dd-b290-34158ed1ed3d")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C31")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -4685,7 +3761,7 @@
 	)
 	(symbol
 		(lib_id "Samacsys_kicad_sym:S252B222K502CT")
-		(at 99.06 189.23 90)
+		(at 73.66 189.23 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4693,9 +3769,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "4feb3873-8831-4ba6-82c0-6e05c3f58b32")
+		(uuid "0a5f969f-045e-4dbe-b682-eb200b66f798")
 		(property "Reference" "C34"
-			(at 102.87 189.23 0)
+			(at 77.47 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4705,7 +3781,7 @@
 			)
 		)
 		(property "Value" "4.7nF/Y2"
-			(at 105.41 189.23 0)
+			(at 80.01 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4715,7 +3791,7 @@
 			)
 		)
 		(property "Footprint" "CAPC5728X280N:CAPC5728X280N"
-			(at 195.25 180.34 0)
+			(at 169.85 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4727,7 +3803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 295.25 180.34 0)
+			(at 269.85 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4739,7 +3815,7 @@
 			)
 		)
 		(property "Description" "Safety Capacitors 2211 MLCC X7R 2200 pF , \\'+/- 10% 5K V T&R SAF"
-			(at 99.06 189.23 0)
+			(at 73.66 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4750,7 +3826,7 @@
 			)
 		)
 		(property "Height" "2.8"
-			(at 495.25 180.34 0)
+			(at 469.85 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4762,7 +3838,7 @@
 			)
 		)
 		(property "Mouser Part Number" "791-S252B222K502CT"
-			(at 595.25 180.34 0)
+			(at 569.85 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4774,7 +3850,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Walsin/S252B222K502CT?qs=wUXugUrL1qx2Bha0j7hz5g%3D%3D"
-			(at 695.25 180.34 0)
+			(at 669.85 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4786,7 +3862,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Walsin Technology Corporation"
-			(at 795.25 180.34 0)
+			(at 769.85 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4798,7 +3874,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "S252B222K502CT"
-			(at 895.25 180.34 0)
+			(at 869.85 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4810,7 +3886,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 99.06 189.23 0)
+			(at 73.66 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4821,7 +3897,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 99.06 189.23 0)
+			(at 73.66 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4832,7 +3908,7 @@
 			)
 		)
 		(property "Mouser Url" ""
-			(at 99.06 189.23 0)
+			(at 73.66 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4843,7 +3919,7 @@
 			)
 		)
 		(property "TME Electronic Components Part Number" ""
-			(at 99.06 189.23 0)
+			(at 73.66 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4854,7 +3930,7 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
-			(at 99.06 189.23 0)
+			(at 73.66 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4865,10 +3941,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d612a2ce-191d-4058-850f-1cef2142e288")
+			(uuid "0b1614f5-e965-4d49-b675-94ac7ea49ac6")
 		)
 		(pin "1"
-			(uuid "d8c0c6e5-a721-47e0-a43e-a047e5559b08")
+			(uuid "65a0b943-6d1f-404e-b971-898f236b8fc7")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
@@ -4880,8 +3956,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 165.1 113.03 180)
+		(lib_id "Device:C_Small")
+		(at 158.75 21.59 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4889,31 +3965,119 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "571e845c-7dfe-4a94-9ed5-1f258f1db7ee")
-		(property "Reference" "FB7"
-			(at 156.21 111.76 0)
+		(fields_autoplaced yes)
+		(uuid "0cf1f15f-b724-4d08-bdd6-3e28a7b16084")
+		(property "Reference" "C43"
+			(at 158.7563 15.24 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+			)
+		)
+		(property "Value" "100n"
+			(at 158.7563 17.78 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 158.75 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 158.75 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 158.75 21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fba1228e-b644-4aee-848f-f58111bed896")
+		)
+		(pin "1"
+			(uuid "12a722ef-8498-4d64-b653-f3d88c5bc3b1")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 82.55 76.2 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1a9c78bb-f971-450a-a9b1-33fbc876e90a")
+		(property "Reference" "FB3"
+			(at 77.47 77.47 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "Value" "2K@100MHz"
-			(at 152.4 114.3 0)
+			(at 81.28 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 166.878 113.03 90)
+			(at 82.55 77.978 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4924,7 +4088,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
-			(at 165.1 113.03 0)
+			(at 82.55 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4935,7 +4099,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead, small symbol"
-			(at 165.1 113.03 0)
+			(at 82.55 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4946,7 +4110,7 @@
 			)
 		)
 		(property "Mouser Part Number" "623-2508052027Y1"
-			(at 165.1 113.03 0)
+			(at 82.55 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4957,15 +4121,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "0a476a0a-1ad2-42ba-b47b-20ea1b38bda0")
+			(uuid "799baa07-5c78-4d0c-9bb6-42e2ff364541")
 		)
 		(pin "1"
-			(uuid "c4ee2df0-b49e-4498-bca4-14f0e9d5e182")
+			(uuid "9f5b7ac9-bb0e-4d48-ade5-9fdd9377b312")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "FB7")
+					(reference "FB3")
 					(unit 1)
 				)
 			)
@@ -4973,7 +4137,7 @@
 	)
 	(symbol
 		(lib_id "Samacsys_kicad_sym:S252B222K502CT")
-		(at 99.06 102.87 90)
+		(at 73.66 102.87 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4981,9 +4145,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "5d2a58cd-2963-498e-b0fe-3395000f7862")
+		(uuid "1afcb98e-0595-4fa0-aef7-74d1d0ecdd24")
 		(property "Reference" "C32"
-			(at 102.87 102.87 0)
+			(at 77.47 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4993,7 +4157,7 @@
 			)
 		)
 		(property "Value" "4.7nF/Y2"
-			(at 105.41 102.87 0)
+			(at 80.01 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5003,7 +4167,7 @@
 			)
 		)
 		(property "Footprint" "CAPC5728X280N:CAPC5728X280N"
-			(at 195.25 93.98 0)
+			(at 169.85 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5015,7 +4179,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 295.25 93.98 0)
+			(at 269.85 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5027,7 +4191,7 @@
 			)
 		)
 		(property "Description" "Safety Capacitors 2211 MLCC X7R 2200 pF , \\'+/- 10% 5K V T&R SAF"
-			(at 99.06 102.87 0)
+			(at 73.66 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5038,7 +4202,7 @@
 			)
 		)
 		(property "Height" "2.8"
-			(at 495.25 93.98 0)
+			(at 469.85 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5050,7 +4214,7 @@
 			)
 		)
 		(property "Mouser Part Number" "791-S252B222K502CT"
-			(at 595.25 93.98 0)
+			(at 569.85 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5062,7 +4226,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Walsin/S252B222K502CT?qs=wUXugUrL1qx2Bha0j7hz5g%3D%3D"
-			(at 695.25 93.98 0)
+			(at 669.85 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5074,7 +4238,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Walsin Technology Corporation"
-			(at 795.25 93.98 0)
+			(at 769.85 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5086,7 +4250,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "S252B222K502CT"
-			(at 895.25 93.98 0)
+			(at 869.85 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5098,7 +4262,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 99.06 102.87 0)
+			(at 73.66 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5109,7 +4273,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 99.06 102.87 0)
+			(at 73.66 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5120,7 +4284,7 @@
 			)
 		)
 		(property "Mouser Url" ""
-			(at 99.06 102.87 0)
+			(at 73.66 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5131,7 +4295,7 @@
 			)
 		)
 		(property "TME Electronic Components Part Number" ""
-			(at 99.06 102.87 0)
+			(at 73.66 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5142,7 +4306,7 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
-			(at 99.06 102.87 0)
+			(at 73.66 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5153,10 +4317,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6e94fab2-2849-4641-86ee-d23fb920a677")
+			(uuid "917640c3-9d22-4be7-a04b-98f300c8d5ec")
 		)
 		(pin "1"
-			(uuid "86ac7d43-41b1-4261-acae-03aae2e58e3f")
+			(uuid "98886a96-6b48-4c30-b366-de78ba0934fd")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
@@ -5168,8 +4332,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 116.84 73.66 180)
+		(lib_name "PWR_FLAG_1")
+		(lib_id "power:PWR_FLAG")
+		(at 149.86 33.02 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5178,31 +4343,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5de81087-6a0e-4725-aaa7-2b5140e9b483")
-		(property "Reference" "C35"
-			(at 119.38 72.3835 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "47u"
-			(at 119.38 74.9235 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 116.84 73.66 0)
+		(uuid "249023d8-be43-4bf9-bfd0-17628cac9153")
+		(property "Reference" "#FLG08"
+			(at 149.86 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5212,169 +4355,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 116.84 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 116.84 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 116.84 73.66 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5baa4717-9dea-4989-8553-6024efb83df6")
-		)
-		(pin "1"
-			(uuid "3a8dbd9a-c153-4152-9827-35afda41eaf0")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 107.95 71.12 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5fdf5aac-4b4d-4b0d-9710-c5652b34d23f")
-		(property "Reference" "FB2"
-			(at 107.9119 64.77 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2K@100MHz"
-			(at 107.9119 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 107.95 72.898 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
-			(at 107.95 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 107.95 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "623-2508052027Y1"
-			(at 107.95 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "09dbd43e-ecd5-44bd-8518-49ea4ac31b09")
-		)
-		(pin "1"
-			(uuid "1ce3b54b-9329-4f10-94cf-f82a9132bac8")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "FB2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 168.91 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6206d626-fcfe-4208-b467-c467dc877942")
-		(property "Reference" "#PWR043"
-			(at 168.91 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 168.91 101.6 0)
+		(property "Value" "PWR_FLAG"
+			(at 149.86 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5384,7 +4366,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 105.41 0)
+			(at 149.86 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5395,7 +4377,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 105.41 0)
+			(at 149.86 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5405,85 +4387,8 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 168.91 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9079c26a-ad7f-47f7-ab40-1da187a15bf0")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR043")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 165.1 69.85 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "631295a4-da2c-4b86-bb2c-11e31fb7199c")
-		(property "Reference" "#PWR039"
-			(at 165.1 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 168.91 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 69.85 0)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 149.86 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5494,12 +4399,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "42a2954a-63bd-4398-b393-4c3142b6e756")
+			(uuid "3e6d56f7-bdd6-4a9a-96d8-5de41140bd6f")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR039")
+					(reference "#FLG08")
 					(unit 1)
 				)
 			)
@@ -5507,7 +4412,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 146.05 35.56 0)
+		(at 120.65 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5516,9 +4421,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "64eab59c-3fb2-40f8-9868-4c72cf7d6ecb")
+		(uuid "2cc9f32b-7fd5-43c5-aaf6-2578ea380c41")
 		(property "Reference" "#PWR034"
-			(at 146.05 41.91 0)
+			(at 120.65 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5529,7 +4434,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 146.05 40.64 0)
+			(at 120.65 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5539,7 +4444,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 35.56 0)
+			(at 120.65 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5550,7 +4455,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 35.56 0)
+			(at 120.65 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5561,7 +4466,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 35.56 0)
+			(at 120.65 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5572,7 +4477,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7485a584-3c10-42d8-9493-f1ad0ac39b76")
+			(uuid "7014aa73-a323-468c-a346-e60c23ad8ac9")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
@@ -5585,278 +4490,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 85.09 175.26 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "67be6ac5-dc53-40f6-9db7-f60e4cc0361f")
-		(property "Reference" "C28"
-			(at 78.74 173.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 78.74 176.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 85.09 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 85.09 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 85.09 175.26 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "daa486c4-061e-42b3-bbec-b4257cfb495c")
-		)
-		(pin "1"
-			(uuid "ec1d60a0-75f5-4d25-b241-bcb0cb92bd3f")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 85.09 88.9 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "69001827-fdf0-486d-8d01-5fc149f18317")
-		(property "Reference" "C27"
-			(at 78.74 87.63 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100n"
-			(at 78.74 90.17 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 85.09 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 85.09 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 85.09 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b9192c28-fe95-4750-a329-ee3279d1baca")
-		)
-		(pin "1"
-			(uuid "18eda894-c2e4-4a49-bef9-575053def6c1")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 92.71 175.26 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7101839d-1ee6-43a0-93e3-9bd71074df6e")
-		(property "Reference" "C30"
-			(at 96.52 173.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10n"
-			(at 96.52 176.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 92.71 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 92.71 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 92.71 175.26 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c3815b87-7f1f-47ec-903a-45aa7b922dfc")
-		)
-		(pin "1"
-			(uuid "4099bf9c-39cb-4ead-8bae-5eae64e9f565")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 107.95 157.48 90)
+		(at 91.44 160.02 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5865,29 +4499,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "75edde93-2092-4281-800d-58d652c4ba4c")
-		(property "Reference" "FB4"
-			(at 107.9119 151.13 90)
+		(uuid "352cfe13-efa4-45e6-b9cf-0a27a8d16466")
+		(property "Reference" "C36"
+			(at 93.98 158.7435 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "2K@100MHz"
-			(at 107.9119 153.67 90)
+		(property "Value" "47u"
+			(at 93.98 161.2835 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 107.95 159.258 90)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 91.44 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5897,8 +4533,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
-			(at 107.95 157.48 0)
+		(property "Datasheet" ""
+			(at 91.44 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5908,8 +4544,8 @@
 				)
 			)
 		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 107.95 157.48 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 91.44 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5919,9 +4555,8 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "623-2508052027Y1"
-			(at 107.95 157.48 0)
-			(hide yes)
+		(property "Mouser Part Number" "."
+			(at 91.44 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5931,24 +4566,24 @@
 			)
 		)
 		(pin "2"
-			(uuid "5edc8c40-187b-47ef-826b-b2e16b21b0e5")
+			(uuid "05163f45-c37a-4608-b066-b537bec67217")
 		)
 		(pin "1"
-			(uuid "0e2981ee-6409-43ae-9087-db920c8d8645")
+			(uuid "ec98f5da-3e41-4627-b29d-b34d90e450c2")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "FB4")
+					(reference "C36")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_name "PWR_FLAG_1")
-		(lib_id "power:PWR_FLAG")
-		(at 160.02 119.38 180)
+		(lib_id "Interface_CAN_LIN:ADM3057ExRW")
+		(at 116.84 156.21 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5956,10 +4591,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8854a871-3e9f-403d-9539-6d3c1162f46c")
-		(property "Reference" "#FLG06"
-			(at 160.02 121.285 0)
+		(uuid "3ecb775e-3561-432a-baa5-b28870d78325")
+		(property "Reference" "U6"
+			(at 112.1567 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ADM3057ExRW"
+			(at 112.1567 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
+			(at 116.84 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5969,8 +4625,133 @@
 				)
 			)
 		)
-		(property "Value" "PWR_FLAG"
-			(at 160.02 124.46 0)
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3055E-3057E.pdf"
+			(at 124.46 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Isolated CAN FD Transceiver, integrated isolated DC-DC converter, 12Mbps, SOIC-20W"
+			(at 112.522 186.944 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "584-ADM3057EBRWZ"
+			(at 116.84 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "7b16c6e1-a1f9-4f5a-a2eb-d3c5d4cd4035")
+		)
+		(pin "4"
+			(uuid "d09b0fb7-43c6-4828-b7ad-772a796b0488")
+		)
+		(pin "1"
+			(uuid "210ba489-3d5f-49a9-83f5-d78b7f9c25a8")
+		)
+		(pin "11"
+			(uuid "8b644123-9e69-4bdf-804a-389ce7e4df5b")
+		)
+		(pin "12"
+			(uuid "721523fd-ca2b-4188-a6f9-48d8ad4c51f3")
+		)
+		(pin "14"
+			(uuid "d2600b14-8089-4e7c-9786-69c5ababd8fd")
+		)
+		(pin "6"
+			(uuid "fdb73068-acc6-4a1c-86d4-1e909a7b4db2")
+		)
+		(pin "19"
+			(uuid "7a3951ab-6ea9-4d69-843c-936e7842bf0a")
+		)
+		(pin "3"
+			(uuid "b1377ef8-eab2-4172-a983-7b6279e982b9")
+		)
+		(pin "18"
+			(uuid "160a308c-195e-489f-9028-ff878ddf1ea5")
+		)
+		(pin "20"
+			(uuid "c6e90838-89d9-4c2f-a57d-70e2bdeb5125")
+		)
+		(pin "8"
+			(uuid "0027899a-2077-4569-a53e-d32787dbc636")
+		)
+		(pin "15"
+			(uuid "b90ab0a9-8688-4c75-a3c5-992cee440f4e")
+		)
+		(pin "2"
+			(uuid "97d22347-5212-4355-9968-3a893b5ede9e")
+		)
+		(pin "13"
+			(uuid "bd8d2549-6767-4526-91dc-c6a80d9a5e41")
+		)
+		(pin "16"
+			(uuid "eb55613e-7d2f-4b9c-a31e-10aae776b97f")
+		)
+		(pin "9"
+			(uuid "5f1c2d1f-d839-400a-a359-ab07b2aae704")
+		)
+		(pin "10"
+			(uuid "e9c7d2a5-4680-4dec-87a5-666b8e80bcc9")
+		)
+		(pin "17"
+			(uuid "32830e68-7c57-4485-9aeb-4e899bbebb74")
+		)
+		(pin "7"
+			(uuid "01dc5b7f-8783-48df-817b-d22f521878a4")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 143.51 19.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42d55f2a-23e2-4206-bed9-6e06b2fa0d49")
+		(property "Reference" "#PWR042"
+			(at 143.51 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 143.51 15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5980,7 +4761,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 119.38 0)
+			(at 143.51 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5991,7 +4772,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 119.38 0)
+			(at 143.51 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6001,8 +4782,8 @@
 				)
 			)
 		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 160.02 119.38 0)
+		(property "Description" ""
+			(at 143.51 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6013,12 +4794,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "69c141b5-5da9-4d72-aaf0-9b3ce5fa005a")
+			(uuid "c514bf2a-d755-41c0-a3a2-86251378a807")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#FLG06")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -6026,7 +4807,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 99.06 194.31 0)
+		(at 139.7 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6034,9 +4815,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "887b43ce-407b-445a-abf4-33633d8487f6")
-		(property "Reference" "#PWR033"
-			(at 99.06 200.66 0)
+		(uuid "448de123-d956-4bd9-a6e2-458ffd879a96")
+		(property "Reference" "#PWR039"
+			(at 139.7 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6047,7 +4828,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 93.98 196.85 0)
+			(at 143.51 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6057,7 +4838,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 194.31 0)
+			(at 139.7 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6068,7 +4849,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 194.31 0)
+			(at 139.7 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6079,7 +4860,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 99.06 194.31 0)
+			(at 139.7 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6090,7 +4871,177 @@
 			)
 		)
 		(pin "1"
-			(uuid "32948aee-4ec4-42b4-a7c7-69b7817efab4")
+			(uuid "f078cf6c-7c89-4411-9a59-7b20e5990b2d")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 143.51 113.03 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "476d7575-ec6d-4f33-b493-1ff117848d35")
+		(property "Reference" "FB9"
+			(at 146.05 111.798 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2K@100MHz"
+			(at 146.05 114.338 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 145.288 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
+			(at 143.51 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 143.51 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "623-2508052027Y1"
+			(at 143.51 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "52ebb43c-ef16-4e79-b796-583ccfbe7d8d")
+		)
+		(pin "1"
+			(uuid "bb71b947-ee52-4edc-9e60-1dffe5cc601f")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "FB9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 194.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "47bd6e5d-74c8-4cd4-b434-49301e59156a")
+		(property "Reference" "#PWR033"
+			(at 73.66 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 68.58 196.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "63cef873-96a8-48e1-a0e7-b18d264169f0")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
@@ -6103,7 +5054,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 184.15 21.59 90)
+		(at 157.48 119.38 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6111,10 +5062,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d32a24c-944c-4630-a383-fb6713c55e7e")
-		(property "Reference" "C43"
-			(at 184.1563 15.24 90)
+		(uuid "48793828-ac77-4c89-8d5d-ec22e672a343")
+		(property "Reference" "C42"
+			(at 157.48 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6123,8 +5073,8 @@
 				)
 			)
 		)
-		(property "Value" "100n"
-			(at 184.1563 17.78 90)
+		(property "Value" "10n"
+			(at 157.48 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6134,7 +5084,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 184.15 21.59 0)
+			(at 157.48 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6145,7 +5095,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 21.59 0)
+			(at 157.48 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6156,7 +5106,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 184.15 21.59 0)
+			(at 157.48 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6167,7 +5117,7 @@
 			)
 		)
 		(property "Mouser Part Number" "."
-			(at 184.15 21.59 0)
+			(at 157.48 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6177,23 +5127,23 @@
 			)
 		)
 		(pin "2"
-			(uuid "168c0cd5-7c7f-4225-915c-d8b2a0f12d70")
+			(uuid "039f4f00-6bc2-4c72-894c-57b02c6c869c")
 		)
 		(pin "1"
-			(uuid "ecc5135e-8a19-4ef8-86d9-e31296c02bf6")
+			(uuid "6c69377f-f471-449b-8bf0-bd0d73d95e65")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C43")
+					(reference "C42")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 165.1 156.21 0)
+		(lib_id "Device:R_Small")
+		(at 92.71 81.28 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6201,10 +5151,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "91c944bd-a072-4c8b-8ab3-2b29a4823bf5")
-		(property "Reference" "#PWR041"
-			(at 165.1 162.56 0)
-			(hide yes)
+		(uuid "4a0ce76f-3be0-4e20-a676-016f68dc22bc")
+		(property "Reference" "R15"
+			(at 90.17 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6213,8 +5162,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 168.91 157.48 0)
+		(property "Value" "100K"
+			(at 95.25 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6223,8 +5172,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 165.1 156.21 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 92.71 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6235,7 +5184,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 156.21 0)
+			(at 92.71 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6245,8 +5194,191 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 156.21 0)
+		(property "Description" "Resistor, small symbol"
+			(at 92.71 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 92.71 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b33aebc3-1ddd-468f-b8cf-edf0d66fd6d6")
+		)
+		(pin "2"
+			(uuid "7ec4fab9-aa46-4a86-a8f6-2e1d8e3e5256")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 59.69 172.72 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4a1e3485-a5f1-48d7-aae3-34cfe7c2e468")
+		(property "Reference" "C28"
+			(at 53.34 171.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100n"
+			(at 53.34 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 59.69 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 59.69 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 59.69 172.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2c43f9f0-3891-40d0-8121-f9ab0a1afbc3")
+		)
+		(pin "1"
+			(uuid "52c13e55-2680-4f09-92d3-0fa90a406535")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "PWR_FLAG_1")
+		(lib_id "power:PWR_FLAG")
+		(at 148.59 119.38 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a4b1e33-4fa6-4df5-9cb8-d3e4d4be0cc8")
+		(property "Reference" "#FLG07"
+			(at 148.59 121.285 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 148.59 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 148.59 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6257,7 +5389,747 @@
 			)
 		)
 		(pin "1"
-			(uuid "5befb14f-dd5e-44c0-ae50-5d31ae73e88e")
+			(uuid "d1fbea73-7c77-4aa7-b0b0-3bbf4c13c948")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "#FLG07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Interface_CAN_LIN:ADM3057ExRW")
+		(at 116.84 69.85 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5d7d67ed-c65d-4361-b1ee-445b85579340")
+		(property "Reference" "U5"
+			(at 112.1567 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ADM3057ExRW"
+			(at 112.1567 90.17 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
+			(at 116.84 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3055E-3057E.pdf"
+			(at 124.46 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Isolated CAN FD Transceiver, integrated isolated DC-DC converter, 12Mbps, SOIC-20W"
+			(at 112.522 100.584 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "584-ADM3057EBRWZ"
+			(at 116.84 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "584a410a-afb4-478b-b87c-ed1dfc1b86c5")
+		)
+		(pin "4"
+			(uuid "7940f13c-400e-443e-8b3b-7a52559de63f")
+		)
+		(pin "1"
+			(uuid "fd2eee1c-5cb4-4cc2-89f4-64ca2dd34b28")
+		)
+		(pin "11"
+			(uuid "102b20a7-72f6-4a2b-8294-0ea2927657ce")
+		)
+		(pin "12"
+			(uuid "d48cf36f-fe66-42ef-b80b-e87dd128569f")
+		)
+		(pin "14"
+			(uuid "20924ac6-e5e2-432f-865d-30e41002df38")
+		)
+		(pin "6"
+			(uuid "8583addf-b42f-4b9d-97c1-34a153195fb8")
+		)
+		(pin "19"
+			(uuid "1a2fc2f9-127f-4a09-9794-7969d71426d1")
+		)
+		(pin "3"
+			(uuid "6d8fc418-a0ca-49f3-889a-fdd404a687c0")
+		)
+		(pin "18"
+			(uuid "d89281cf-e65b-4a94-bd5e-f830ad666aca")
+		)
+		(pin "20"
+			(uuid "a39b9543-7e28-4d5c-bc9a-b355cec90c48")
+		)
+		(pin "8"
+			(uuid "a55a1a6b-bdf6-476b-b10d-c66d09076f68")
+		)
+		(pin "15"
+			(uuid "e861a7aa-9d73-4bf1-b27b-0298e7578ac2")
+		)
+		(pin "2"
+			(uuid "02348a79-4418-4f98-9d72-8d68105a78bb")
+		)
+		(pin "13"
+			(uuid "730fb9a9-6e09-461c-b409-425f602aa592")
+		)
+		(pin "16"
+			(uuid "5cdab82a-8e36-44f6-96cd-52ad9a9d2401")
+		)
+		(pin "9"
+			(uuid "fd2460d2-4112-44ad-a7d7-0bd59e093901")
+		)
+		(pin "10"
+			(uuid "2c1e3f22-c991-4a28-a744-1274a4e4499f")
+		)
+		(pin "17"
+			(uuid "5148e708-17a1-4760-9636-abf688bd4d41")
+		)
+		(pin "7"
+			(uuid "027b224c-b429-4422-a4ae-0528eb7494a4")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 82.55 71.12 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "60cb0e2d-74b8-491d-bc16-3aeb5720196d")
+		(property "Reference" "FB2"
+			(at 82.5119 64.77 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2K@100MHz"
+			(at 82.5119 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 82.55 72.898 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
+			(at 82.55 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 82.55 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "623-2508052027Y1"
+			(at 82.55 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "272e3952-113f-4073-8bc3-f86a3e83b8d5")
+		)
+		(pin "1"
+			(uuid "09535e2f-b17a-4f98-82f5-7733d2c13f5c")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "FB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 125.73 107.95 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61427d83-d7e8-4dae-8818-67a12af66037")
+		(property "Reference" "C37"
+			(at 125.7363 101.6 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47u"
+			(at 125.7363 104.14 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 125.73 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 125.73 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 125.73 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e79ccb25-fdb2-464c-be58-1eb57c689465")
+		)
+		(pin "1"
+			(uuid "b0cc04c7-0c94-4a6a-a37e-dcedb16e931b")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 92.71 167.64 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6d473af5-4582-44f8-a0c7-b23227374c9b")
+		(property "Reference" "R16"
+			(at 90.17 165.1 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100K"
+			(at 95.25 165.1 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 92.71 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 92.71 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 92.71 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "febcba3e-46a1-4369-93eb-94b06efb2903")
+		)
+		(pin "2"
+			(uuid "de98252f-d093-4a4c-9fca-cde7601fae68")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 127 33.02 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "73c66970-023f-4b30-9bd0-f490b52e794c")
+		(property "Reference" "C40"
+			(at 127 35.56 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47u"
+			(at 127 38.1 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 127 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 127 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 127 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "35c4be0e-e758-427a-b3fd-0cb59487a01d")
+		)
+		(pin "1"
+			(uuid "ad1bac6b-bcb6-42c0-884d-5ad6a7a91602")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 120.65 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8098e347-5ebc-4eb8-9fff-9bbc611eb249")
+		(property "Reference" "#PWR035"
+			(at 120.65 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 120.65 127 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "42a49865-6c38-4d9f-b2c8-ffcc288fdcbf")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "PWR_FLAG_1")
+		(lib_id "power:PWR_FLAG")
+		(at 134.62 119.38 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84f48e4b-b29c-4ecb-91a0-d69c48c629dd")
+		(property "Reference" "#FLG06"
+			(at 134.62 121.285 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 134.62 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 134.62 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5062ae34-23ce-4ec8-8d41-d5780c5d2419")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "#FLG06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 139.7 156.21 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8a264c9b-5bd8-4d3d-bca1-2ddaf2012569")
+		(property "Reference" "#PWR041"
+			(at 139.7 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 143.51 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 139.7 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c4a54d4c-dd25-4d7d-a7b1-ea6c729e12f7")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
@@ -6269,8 +6141,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 147.32 176.53 0)
+		(lib_id "Device:FerriteBead_Small")
+		(at 139.7 26.67 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6278,10 +6150,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9a12ce5a-1a65-4e3a-942b-ee847df200f5")
-		(property "Reference" "#PWR037"
-			(at 147.32 182.88 0)
+		(uuid "935e61aa-1522-4475-b149-b3a8d8eb2b96")
+		(property "Reference" "FB6"
+			(at 133.35 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2K@100MHz"
+			(at 127 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 141.478 26.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6291,8 +6184,9 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 147.32 181.61 0)
+		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
+			(at 139.7 26.67 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6301,8 +6195,76 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 147.32 176.53 0)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 139.7 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "623-2508052027Y1"
+			(at 139.7 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7c0ad193-ff11-4256-8797-7d8e6d0c1ea1")
+		)
+		(pin "1"
+			(uuid "39950fe7-db72-4ce7-b99f-ee0d53d9e158")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "FB6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 158.75 33.02 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "97fee7ab-6b3e-4197-9387-65a0f1342d07")
+		(property "Reference" "C44"
+			(at 158.75 35.56 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10n"
+			(at 158.75 38.1 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 158.75 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6313,7 +6275,281 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 176.53 0)
+			(at 158.75 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 158.75 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 158.75 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1e0589c4-2f3b-4feb-8bdf-1ef1d4123266")
+		)
+		(pin "1"
+			(uuid "2f53f921-78e9-4098-a844-be587f7310b5")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 91.44 73.66 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "994e2f1a-611e-4b4c-9097-a8250fb68a08")
+		(property "Reference" "C35"
+			(at 93.98 72.3835 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47u"
+			(at 93.98 74.9235 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 91.44 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 91.44 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 91.44 73.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "01eeff0a-ffd4-4d16-b50d-e28a0b24c8e6")
+		)
+		(pin "1"
+			(uuid "0ec7194b-f5d4-4870-af9f-9c4fbe9bc8a2")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 73.66 160.02 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9df70fc5-27a6-4ec1-8979-51fc3f410d07")
+		(property "Reference" "C33"
+			(at 67.31 158.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47u"
+			(at 67.31 161.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 73.66 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 73.66 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 73.66 160.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0bf0921b-348d-4e96-af2f-8a95077fda97")
+		)
+		(pin "1"
+			(uuid "36164e3f-f54a-404b-b52c-945a7b0f17b0")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 107.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa3778d9-97e7-459b-9ba3-65686e4882a6")
+		(property "Reference" "#PWR032"
+			(at 73.66 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 113.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6324,7 +6560,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 147.32 176.53 0)
+			(at 73.66 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6335,7 +6571,340 @@
 			)
 		)
 		(pin "1"
-			(uuid "c7e2c8c3-b400-4cf9-8e6c-db4bfe4a0c18")
+			(uuid "f7b455d7-9d52-4136-89a5-858e564fe40d")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 125.73 119.38 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ab633312-62fe-432e-80c7-253299c0e30e")
+		(property "Reference" "C38"
+			(at 125.73 121.92 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47u"
+			(at 125.73 124.46 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 125.73 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 125.73 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 125.73 119.38 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d0553ecf-4f34-4868-bfb7-5cbef3185010")
+		)
+		(pin "1"
+			(uuid "5f00000c-8315-416d-b35b-f2d12cb7dc5f")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 67.31 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b7651115-cdf5-44c7-905f-f63d15ecfbe8")
+		(property "Reference" "C29"
+			(at 71.12 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10n"
+			(at 71.12 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 67.31 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 67.31 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "eb890333-d25a-4eea-85d6-e2769bb578d7")
+		)
+		(pin "1"
+			(uuid "d0df9325-40a3-4e22-a0ee-b877001de061")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 139.7 19.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b8353037-62ee-40db-9e17-800d4f52166a")
+		(property "Reference" "#PWR038"
+			(at 139.7 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 138.43 15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 139.7 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9db33b76-09dd-4c7c-b0a7-3ec0cd46e6d1")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 121.92 176.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b985dcff-c53b-4d73-bf12-1bdf7c2fae31")
+		(property "Reference" "#PWR037"
+			(at 121.92 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 121.92 181.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 121.92 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d4226c24-309d-4a88-a907-a3ddcdd15062")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
@@ -6347,8 +6916,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 176.53 107.95 90)
+		(lib_name "PWR_FLAG_1")
+		(lib_id "power:PWR_FLAG")
+		(at 134.62 33.02 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6357,9 +6927,10 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9eb377ca-847d-4d03-95ae-911081c43184")
-		(property "Reference" "C41"
-			(at 176.5363 101.6 90)
+		(uuid "ba381571-6b25-4899-89e2-c8924b56f0c2")
+		(property "Reference" "#FLG05"
+			(at 134.62 34.925 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6368,8 +6939,8 @@
 				)
 			)
 		)
-		(property "Value" "100n"
-			(at 176.5363 104.14 90)
+		(property "Value" "PWR_FLAG"
+			(at 134.62 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6378,8 +6949,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 176.53 107.95 0)
+		(property "Footprint" ""
+			(at 134.62 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6390,7 +6961,85 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 107.95 0)
+			(at 134.62 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 134.62 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f4cf5416-e1cf-4550-97a9-15c0f588bae6")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "#FLG05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 73.66 73.66 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "be88b9f1-7cc5-4cfe-80fc-1e76c0c7c592")
+		(property "Reference" "C31"
+			(at 67.31 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47u"
+			(at 67.31 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 73.66 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6401,7 +7050,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 176.53 107.95 0)
+			(at 73.66 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6412,7 +7061,7 @@
 			)
 		)
 		(property "Mouser Part Number" "."
-			(at 176.53 107.95 0)
+			(at 73.66 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6422,23 +7071,23 @@
 			)
 		)
 		(pin "2"
-			(uuid "34ab0cbf-026d-4c39-afeb-5fad600b1036")
+			(uuid "450d6f54-d675-45c9-92f0-910d1d8d6914")
 		)
 		(pin "1"
-			(uuid "25af8520-8ce8-4049-8e9a-d22fa9040cdb")
+			(uuid "07fe3a05-21d0-4521-99ca-cfd601b7acc7")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C41")
+					(reference "C31")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 165.1 105.41 0)
+		(lib_id "Device:FerriteBead_Small")
+		(at 82.55 162.56 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6446,9 +7095,29 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "a5eed157-92c1-425c-915b-5cc7a64f1bd3")
-		(property "Reference" "#PWR040"
-			(at 165.1 109.22 0)
+		(uuid "cb6291bf-959b-41e5-be72-76466398366d")
+		(property "Reference" "FB5"
+			(at 77.47 163.83 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2K@100MHz"
+			(at 81.28 166.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 82.55 164.338 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6458,8 +7127,79 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
-			(at 163.83 101.6 0)
+		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
+			(at 82.55 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 82.55 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "623-2508052027Y1"
+			(at 82.55 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dc270dfd-2df7-4e46-96b8-41101c73eb57")
+		)
+		(pin "1"
+			(uuid "e63099ca-3d6d-4ce8-9749-141cccd64db6")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "FB5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 121.92 90.17 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d025cf48-b18f-4cb8-a40a-e12857a4cdb0")
+		(property "Reference" "#PWR036"
+			(at 121.92 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 121.92 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6469,7 +7209,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 105.41 0)
+			(at 121.92 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6480,7 +7220,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 105.41 0)
+			(at 121.92 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6490,8 +7230,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 165.1 105.41 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 121.92 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6502,12 +7242,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3bfd7bd0-bdab-4cb0-951f-c4d438ab4122")
+			(uuid "856aaeb3-9de4-44cc-9372-6f504caf30e0")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR040")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -6524,8 +7264,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "aa757f1e-98ef-4d0e-b8bf-9b11ca4880bb")
-		(property "Reference" "C37"
+		(uuid "e0e7db60-dd27-4dc2-82db-9aac19102537")
+		(property "Reference" "C41"
 			(at 151.1363 101.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6535,7 +7275,7 @@
 				)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "100n"
 			(at 151.1363 104.14 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6545,452 +7285,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 151.13 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 151.13 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 151.13 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 151.13 107.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6517f95d-b670-4e64-a75d-88307459c6c1")
-		)
-		(pin "1"
-			(uuid "3eb1fcab-f729-453b-9049-f580142fa528")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 168.91 113.03 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aaf57588-a55d-4b57-b3db-8e7ef97bc3af")
-		(property "Reference" "FB9"
-			(at 171.45 111.798 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "2K@100MHz"
-			(at 171.45 114.338 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 170.688 113.03 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
-			(at 168.91 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 168.91 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "623-2508052027Y1"
-			(at 168.91 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a280ad74-128a-4618-b3d9-b36a9772a4cb")
-		)
-		(pin "1"
-			(uuid "752b1037-1b6d-49fc-b344-b68b11fe6d84")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "FB9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 116.84 160.02 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae706df6-b42e-4548-8781-401d77b19abd")
-		(property "Reference" "C36"
-			(at 119.38 158.7435 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "47u"
-			(at 119.38 161.2835 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 116.84 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 116.84 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 116.84 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 116.84 160.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7c39e244-d15d-48a5-beb2-e3e7d2257f6f")
-		)
-		(pin "1"
-			(uuid "30817cbd-4e71-4c3e-b162-0f4889944d81")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 165.1 26.67 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b0b7d361-06a6-4f83-aaa2-be0b48e3370d")
-		(property "Reference" "FB6"
-			(at 158.75 25.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "2K@100MHz"
-			(at 152.4 27.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 166.878 26.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
-			(at 165.1 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 165.1 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "623-2508052027Y1"
-			(at 165.1 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b65b1061-f9a4-4f7c-8fa6-b45edcf79240")
-		)
-		(pin "1"
-			(uuid "19ec6a46-a755-47f6-8393-4d7070f68345")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "FB6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 168.91 19.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b0d88654-3a08-4675-866a-a4620f7c01a0")
-		(property "Reference" "#PWR042"
-			(at 168.91 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 168.91 15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 168.91 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 168.91 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 168.91 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "18c2a386-c575-462f-bf27-a62d3f43d35e")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR042")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 184.15 33.02 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b7aa1a32-7243-4602-a3f6-a5bfdaf376b1")
-		(property "Reference" "C44"
-			(at 184.15 35.56 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10n"
-			(at 184.15 38.1 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 184.15 33.02 0)
+			(at 151.13 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7001,7 +7297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 33.02 0)
+			(at 151.13 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7012,7 +7308,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 184.15 33.02 0)
+			(at 151.13 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7023,7 +7319,7 @@
 			)
 		)
 		(property "Mouser Part Number" "."
-			(at 184.15 33.02 0)
+			(at 151.13 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7033,15 +7329,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "3c9262b0-7931-4b82-90c0-ba174bff07b7")
+			(uuid "6782880c-2b37-42fe-9b58-2f24ccaab727")
 		)
 		(pin "1"
-			(uuid "cbe7b6d7-adbd-4d21-a881-e3bf0710df01")
+			(uuid "313e5911-1eab-469d-b199-10105f00c280")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C44")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -7049,190 +7345,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead_Small")
-		(at 168.91 26.67 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b7bb52a6-7256-4120-82d6-685cc6c33536")
-		(property "Reference" "FB8"
-			(at 171.45 25.438 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "2K@100MHz"
-			(at 171.45 27.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 170.688 26.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
-			(at 168.91 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 168.91 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "623-2508052027Y1"
-			(at 168.91 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "85878add-7b07-464a-ad4d-7100204c098c")
-		)
-		(pin "1"
-			(uuid "8376b216-c07f-4180-bf8a-05c2b8fb1d4b")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "FB8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 107.95 162.56 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b7e4ddaa-8ed9-4d77-ae86-752fef364f31")
-		(property "Reference" "FB5"
-			(at 102.87 163.83 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2K@100MHz"
-			(at 106.68 166.37 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 107.95 164.338 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
-			(at 107.95 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 107.95 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "623-2508052027Y1"
-			(at 107.95 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b3d8b82f-adea-4f33-a516-051b9159808d")
-		)
-		(pin "1"
-			(uuid "bb6c4cb0-1c80-48ee-8fa2-9bab807bca2e")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "FB5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "PWR_FLAG_1")
-		(lib_id "power:PWR_FLAG")
-		(at 175.26 33.02 180)
+		(at 82.55 157.48 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7241,9 +7354,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bb0b3830-a5a7-4390-a896-d8b0408c1242")
-		(property "Reference" "#FLG08"
-			(at 175.26 34.925 0)
+		(uuid "e954286c-6971-45cc-8287-74656af4250a")
+		(property "Reference" "FB4"
+			(at 82.5119 151.13 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2K@100MHz"
+			(at 82.5119 153.67 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 82.55 159.258 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7253,18 +7386,8 @@
 				)
 			)
 		)
-		(property "Value" "PWR_FLAG"
-			(at 175.26 38.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.26 33.02 0)
+		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
+			(at 82.55 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7274,8 +7397,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 175.26 33.02 0)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 82.55 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7285,8 +7408,8 @@
 				)
 			)
 		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 175.26 33.02 0)
+		(property "Mouser Part Number" "623-2508052027Y1"
+			(at 82.55 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7295,14 +7418,17 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(pin "2"
+			(uuid "36a3f05c-97da-4de1-8baa-706f9c4ea974")
 		)
 		(pin "1"
-			(uuid "04c2ac78-1508-43c3-8537-9e5972d3838a")
+			(uuid "64d9e497-aad2-4eb6-96ce-8b59f6c42dd6")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#FLG08")
+					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -7310,7 +7436,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 165.1 19.05 0)
+		(at 139.7 105.41 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7318,9 +7444,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "c1574b1d-38d8-4772-a22b-70dfcca8e736")
-		(property "Reference" "#PWR038"
-			(at 165.1 22.86 0)
+		(uuid "eb8e0ad0-6967-416e-8f7f-cfed52508c3d")
+		(property "Reference" "#PWR040"
+			(at 139.7 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7331,7 +7457,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 163.83 15.24 0)
+			(at 138.43 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7341,7 +7467,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 19.05 0)
+			(at 139.7 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7352,7 +7478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 19.05 0)
+			(at 139.7 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7363,7 +7489,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 165.1 19.05 0)
+			(at 139.7 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7374,448 +7500,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "9d4a1077-29ec-4b8e-80fb-da02b7d44505")
+			(uuid "35375dfb-33c3-4634-b261-78465421873d")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR038")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 118.11 81.28 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "cdd00f58-9258-408c-9dc9-dab28a5cc698")
-		(property "Reference" "R15"
-			(at 115.57 78.74 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100K"
-			(at 120.65 78.74 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 118.11 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 118.11 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 118.11 81.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f9196bb3-7b65-40b9-b5c6-a45a8a54af54")
-		)
-		(pin "2"
-			(uuid "18db8785-0ddf-41a7-bb9e-4e98f0794381")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "PWR_FLAG_1")
-		(lib_id "power:PWR_FLAG")
-		(at 173.99 119.38 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce288deb-17d8-429c-9edb-c24cca8043e7")
-		(property "Reference" "#FLG07"
-			(at 173.99 121.285 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 173.99 124.46 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 173.99 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 173.99 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 173.99 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "daab58c7-a4f5-42ba-9f24-d5ef916cc967")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#FLG07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 182.88 119.38 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "cebb3b5c-c26e-4af4-a535-6a0c852e53f0")
-		(property "Reference" "C42"
-			(at 182.88 121.92 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10n"
-			(at 182.88 124.46 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 182.88 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 182.88 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 182.88 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c8493a64-23c5-4cc2-aced-fcbdf1adffa8")
-		)
-		(pin "1"
-			(uuid "b777d301-1602-440f-8645-81b075b41756")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 152.4 21.59 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1404e48-99ad-494f-b9d1-49b29a21ee22")
-		(property "Reference" "C39"
-			(at 152.4063 15.24 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "47u"
-			(at 152.4063 17.78 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 152.4 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 152.4 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 152.4 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 152.4 21.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "301d2f5c-5d7a-418a-bce2-07111a6cf87a")
-		)
-		(pin "1"
-			(uuid "dafbc909-c384-4455-b810-eddd98f3bbda")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 92.71 88.9 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d73d142c-b032-4828-947c-de558e7426bc")
-		(property "Reference" "C29"
-			(at 96.52 87.63 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10n"
-			(at 96.52 90.17 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 92.71 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 92.71 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 92.71 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d4ea6a59-914d-4678-a86e-2ac7b32507f1")
-		)
-		(pin "1"
-			(uuid "58c0f0f6-920b-45e2-a0ae-54db1e1a7abb")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "C29")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -7823,7 +7513,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 121.92 0)
+		(at 162.56 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7832,9 +7522,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ecee526a-9b46-46e8-9e20-1c6e44de70d1")
+		(uuid "ed34e05e-879a-4fe4-b477-ab71a39505b1")
 		(property "Reference" "#PWR044"
-			(at 187.96 128.27 0)
+			(at 162.56 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7845,7 +7535,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 127 0)
+			(at 162.56 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7855,7 +7545,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 121.92 0)
+			(at 162.56 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7866,7 +7556,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 121.92 0)
+			(at 162.56 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7877,7 +7567,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 121.92 0)
+			(at 162.56 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7888,7 +7578,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fd6b8bba-02dc-422f-adec-e50a9676e93e")
+			(uuid "7d650cf3-549d-4bb0-854b-c912ae3e441d")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
@@ -7900,8 +7590,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 146.05 121.92 0)
+		(lib_id "Device:C_Small")
+		(at 67.31 172.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7909,11 +7599,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f8bbeb49-54d3-4bee-8843-a908b84de601")
-		(property "Reference" "#PWR035"
-			(at 146.05 128.27 0)
-			(hide yes)
+		(uuid "ef9057b9-f8eb-4eb9-8f67-f43fa9e7a1ba")
+		(property "Reference" "C30"
+			(at 71.12 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7922,8 +7610,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 146.05 127 0)
+		(property "Value" "10n"
+			(at 71.12 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7932,8 +7620,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 146.05 121.92 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 67.31 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7944,7 +7632,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 121.92 0)
+			(at 67.31 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7954,8 +7642,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 121.92 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7964,22 +7652,35 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Mouser Part Number" "."
+			(at 67.31 172.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "21ec5508-80e8-4d23-9d0e-e26a022ace38")
 		)
 		(pin "1"
-			(uuid "90823f84-abfa-47c7-a160-dcee4b221d07")
+			(uuid "6a6c8e8f-b1ef-47f6-bfe6-6e8a3fc4f239")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR035")
+					(reference "C30")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 190.5 35.56 0)
+		(lib_id "Device:FerriteBead_Small")
+		(at 139.7 113.03 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7987,10 +7688,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fb482b70-4858-428e-9099-62f84eb34677")
-		(property "Reference" "#PWR045"
-			(at 190.5 41.91 0)
+		(uuid "f04767fe-ec9e-40e3-8672-809eae3334f2")
+		(property "Reference" "FB7"
+			(at 130.81 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2K@100MHz"
+			(at 127 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 141.478 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8000,18 +7722,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 190.5 40.64 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 190.5 35.56 0)
+		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
+			(at 139.7 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8021,8 +7733,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 190.5 35.56 0)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 139.7 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8032,8 +7744,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 35.56 0)
+		(property "Mouser Part Number" "623-2508052027Y1"
+			(at 139.7 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8042,22 +7754,25 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(pin "2"
+			(uuid "afb2a435-356e-4520-aa37-2d1e3fae649e")
 		)
 		(pin "1"
-			(uuid "08a700eb-2641-4c2b-85a1-23b6ee33c339")
+			(uuid "e30d92d2-7071-48ad-82db-ffc9c83aa670")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR045")
+					(reference "FB7")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 147.32 90.17 0)
+		(lib_id "Device:FerriteBead_Small")
+		(at 143.51 26.67 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8065,10 +7780,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fd7a135c-c42e-4fce-90b6-d06a740968df")
-		(property "Reference" "#PWR036"
-			(at 147.32 96.52 0)
+		(uuid "f4a9283c-d454-47fa-b628-148653b89a0d")
+		(property "Reference" "FB8"
+			(at 146.05 25.438 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2K@100MHz"
+			(at 146.05 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 145.288 26.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8078,8 +7814,79 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 147.32 95.25 0)
+		(property "Datasheet" "https://www.mouser.pl/ProductDetail/Fair-Rite/2508052027Y1?qs=paL1wOLBYNcCgyNDp2sTMQ%3D%3D"
+			(at 143.51 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 143.51 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "623-2508052027Y1"
+			(at 143.51 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d76acb3c-5a4b-40ce-ad60-72868761115f")
+		)
+		(pin "1"
+			(uuid "10ab680d-5610-41f7-b398-db176a0b0dfa")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "FB8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 143.51 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f68e130c-cd37-4817-9bb4-73754114cf4b")
+		(property "Reference" "#PWR043"
+			(at 143.51 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 143.51 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8089,7 +7896,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 90.17 0)
+			(at 143.51 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8100,7 +7907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 90.17 0)
+			(at 143.51 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8110,8 +7917,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 147.32 90.17 0)
+		(property "Description" ""
+			(at 143.51 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8122,12 +7929,103 @@
 			)
 		)
 		(pin "1"
-			(uuid "9b6c34c1-89a2-487a-878b-1fc4690742d0")
+			(uuid "ea9b2a6b-66c5-4fdd-a61e-f03fb8b715b9")
 		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
-					(reference "#PWR036")
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 59.69 86.36 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "feeb92a0-8e1c-40d4-ab56-95d0366177ec")
+		(property "Reference" "C27"
+			(at 53.34 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100n"
+			(at 53.34 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 59.69 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 59.69 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 59.69 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5ee594d0-c47d-426a-a005-9163634fca6c")
+		)
+		(pin "1"
+			(uuid "df32cffb-c30c-40ee-940c-5f46cae45652")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/210931e6-c0ed-46ec-acf5-aa9b1874fa56"
+					(reference "C27")
 					(unit 1)
 				)
 			)

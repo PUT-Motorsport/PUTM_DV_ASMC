@@ -2676,7 +2676,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0937ffdc-691d-40d8-87a8-58a3d8fa4f41")
-		(property "Reference" "D12"
+		(property "Reference" "D17"
 			(at 110.49 126.7461 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2845,7 +2845,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/df6a7f0c-3e94-451b-97ae-08b4f03339fc/79a9e11a-2c17-464a-b0de-26bb2a26fbe1"
-					(reference "D12")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -3408,7 +3408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2531185f-8de2-4ea2-b3eb-e8516b510395")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR074"
 			(at 92.71 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -3468,7 +3468,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/df6a7f0c-3e94-451b-97ae-08b4f03339fc/79a9e11a-2c17-464a-b0de-26bb2a26fbe1"
-					(reference "#PWR067")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -3756,7 +3756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fa50ea6-1a4e-4092-9806-098ea201caab")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR075"
 			(at 104.14 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3816,7 +3816,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/df6a7f0c-3e94-451b-97ae-08b4f03339fc/79a9e11a-2c17-464a-b0de-26bb2a26fbe1"
-					(reference "#PWR068")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -4103,7 +4103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49c01056-559c-4158-bc03-ef2d68e10d58")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR080"
 			(at 185.42 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -4163,7 +4163,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/df6a7f0c-3e94-451b-97ae-08b4f03339fc/79a9e11a-2c17-464a-b0de-26bb2a26fbe1"
-					(reference "#PWR073")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -4725,7 +4725,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56992594-d7c5-4f79-8cf0-67aff287fc4d")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR076"
 			(at 107.95 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4785,7 +4785,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/df6a7f0c-3e94-451b-97ae-08b4f03339fc/79a9e11a-2c17-464a-b0de-26bb2a26fbe1"
-					(reference "#PWR069")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -5205,7 +5205,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88a68b52-3ee9-4fa0-83dc-d56341eb3904")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR077"
 			(at 124.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5265,7 +5265,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/df6a7f0c-3e94-451b-97ae-08b4f03339fc/79a9e11a-2c17-464a-b0de-26bb2a26fbe1"
-					(reference "#PWR070")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -6203,7 +6203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c55db104-2daa-46b0-a3b5-e3bcf5ba307d")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR079"
 			(at 130.81 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -6263,7 +6263,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/df6a7f0c-3e94-451b-97ae-08b4f03339fc/79a9e11a-2c17-464a-b0de-26bb2a26fbe1"
-					(reference "#PWR072")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -6281,7 +6281,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6b89d24-ad70-43e0-9239-f8757f4db442")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR078"
 			(at 128.27 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6341,7 +6341,7 @@
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/df6a7f0c-3e94-451b-97ae-08b4f03339fc/79a9e11a-2c17-464a-b0de-26bb2a26fbe1"
-					(reference "#PWR071")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)

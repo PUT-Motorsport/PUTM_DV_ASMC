@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 5,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -112,9 +112,7 @@
     "files": []
   },
   "schematic": {
-    "hierarchy_collapsed": [
-      "/df6a7f0c-3e94-451b-97ae-08b4f03339fc/"
-    ],
+    "hierarchy_collapsed": [],
     "selection_filter": {
       "graphics": true,
       "images": true,
