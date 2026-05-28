@@ -4714,7 +4714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Samacsys:CAPC5728X280N"
+		(property "Footprint" "CAPC5728X280N:CAPC5728X280N"
 			(at 195.25 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -5002,7 +5002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Samacsys:CAPC5728X280N"
+		(property "Footprint" "CAPC5728X280N:CAPC5728X280N"
 			(at 195.25 93.98 0)
 			(hide yes)
 			(show_name no)

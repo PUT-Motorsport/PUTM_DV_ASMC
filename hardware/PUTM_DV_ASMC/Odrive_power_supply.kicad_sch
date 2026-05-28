@@ -2499,6 +2499,26 @@
 		)
 		(uuid "fc5bae9f-eab2-48ca-bb2b-d75845de50b3")
 	)
+	(label "ODRIVE_4"
+		(at 182.88 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "108f8a9e-b6c3-46ae-917a-9580791fc909")
+	)
+	(label "ODRIVE_1"
+		(at 182.88 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2aad01e5-b602-40bb-96f5-2206a1c8744c")
+	)
 	(label "SO"
 		(at 118.11 83.82 180)
 		(effects
@@ -2519,6 +2539,16 @@
 		)
 		(uuid "396b95df-f2c8-4c81-b258-7bd4b08960a5")
 	)
+	(label "ODRIVE_2"
+		(at 182.88 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5364b5a3-83eb-4013-bf18-851687569de5")
+	)
 	(label "IN3"
 		(at 118.11 104.14 180)
 		(effects
@@ -2538,6 +2568,16 @@
 			(justify right bottom)
 		)
 		(uuid "92d0119d-6612-4e45-8afc-11c8b7c28167")
+	)
+	(label "ODRIVE_3"
+		(at 182.88 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "95d17633-0d26-450f-98c9-0436b398659c")
 	)
 	(label "CSN"
 		(at 118.11 91.44 180)
@@ -2651,7 +2691,7 @@
 		)
 		(uuid "39f28286-dcab-402c-ac72-642976b6a579")
 	)
-	(hierarchical_label "OUTPUT_ODRIVE"
+	(hierarchical_label "ODRIVE[1..4]"
 		(shape output)
 		(at 189.23 71.12 0)
 		(effects

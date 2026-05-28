@@ -3749,7 +3749,7 @@
 	)
 	(rectangle
 		(start 74.93 73.66)
-		(end 134.62 149.86)
+		(end 137.16 149.86)
 		(stroke
 			(width 0)
 			(type default)
@@ -3761,7 +3761,7 @@
 	)
 	(rectangle
 		(start 76.2 115.57)
-		(end 133.35 147.32)
+		(end 135.89 147.32)
 		(stroke
 			(width 0)
 			(type default)
@@ -3773,7 +3773,7 @@
 	)
 	(rectangle
 		(start 76.2 74.93)
-		(end 133.35 114.3)
+		(end 135.89 114.3)
 		(stroke
 			(width 0)
 			(type default)
@@ -4104,14 +4104,6 @@
 	(no_connect
 		(at 198.12 91.44)
 		(uuid "36d49fe8-bdfa-4ea8-8105-bfe03aa0b462")
-	)
-	(no_connect
-		(at 198.12 101.6)
-		(uuid "3bea8383-ad60-4438-97d0-7667911adb7c")
-	)
-	(no_connect
-		(at 198.12 99.06)
-		(uuid "4f47dba4-b837-46db-a099-ffe0e739b726")
 	)
 	(no_connect
 		(at 198.12 78.74)
@@ -4656,6 +4648,16 @@
 			(type default)
 		)
 		(uuid "3f64066b-2f95-4b21-8e38-e4a433fec6e9")
+	)
+	(wire
+		(pts
+			(xy 190.5 99.06) (xy 198.12 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4371219b-5282-4ca0-ab48-b155311ea96d")
 	)
 	(wire
 		(pts
@@ -5489,6 +5491,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 101.6) (xy 198.12 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4053401-d3d1-48f1-aef2-259d12d1a763")
+	)
+	(wire
+		(pts
 			(xy 26.035 146.685) (xy 25.4 146.685)
 		)
 		(stroke
@@ -6027,6 +6039,16 @@
 		)
 		(uuid "fe284aab-b9ea-4079-ba65-5140a7af8c0f")
 	)
+	(label "FUSE_ISO.0"
+		(at 190.5 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "04b3f8ec-55b1-4a6b-8b00-b6de131d0da4")
+	)
 	(label "CAN1_RX"
 		(at 27.94 173.99 180)
 		(effects
@@ -6037,7 +6059,7 @@
 		)
 		(uuid "05f8f710-dae6-45da-b57d-0042a22885bc")
 	)
-	(label "DEBUG_LED4"
+	(label "DEBUG_LED_4"
 		(at 46.355 146.685 0)
 		(effects
 			(font
@@ -6227,7 +6249,7 @@
 		)
 		(uuid "4fbe5ee0-9ed0-4422-a641-e814ececcae3")
 	)
-	(label "FUSE_IS.0"
+	(label "FUSE_ISO.0"
 		(at 87.63 106.68 180)
 		(effects
 			(font
@@ -6267,7 +6289,7 @@
 		)
 		(uuid "59012979-1487-44fb-91ef-0ce5c16d0754")
 	)
-	(label "SPI1_SCK"
+	(label "SPI1_NSS"
 		(at 251.46 76.2 180)
 		(effects
 			(font
@@ -6277,7 +6299,7 @@
 		)
 		(uuid "67622627-ac3c-421b-af08-91e591a5dfc1")
 	)
-	(label "DEBUG_LED1"
+	(label "DEBUG_LED_1"
 		(at 45.72 116.84 0)
 		(effects
 			(font
@@ -6337,6 +6359,16 @@
 		)
 		(uuid "850be7e0-5a57-4067-93d7-4ce02b49576a")
 	)
+	(label "FUSE_ISO.1"
+		(at 190.5 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8cb2daff-c474-4bc4-bc42-f56fd850b64b")
+	)
 	(label "CAN2_TX"
 		(at 27.94 194.31 180)
 		(effects
@@ -6367,7 +6399,7 @@
 		)
 		(uuid "9495ab32-75d1-49d4-817e-938f5b6aa71c")
 	)
-	(label "DEBUG_LED3"
+	(label "DEBUG_LED_3"
 		(at 46.355 136.525 0)
 		(effects
 			(font
@@ -6427,7 +6459,7 @@
 		)
 		(uuid "ce20fbec-1ca1-43f1-a44a-7cffc2239573")
 	)
-	(label "FUSE_IS.1"
+	(label "FUSE_ISO.1"
 		(at 87.63 109.22 180)
 		(effects
 			(font
@@ -6447,7 +6479,7 @@
 		)
 		(uuid "eb190a5f-be49-46cf-a40e-0c6ddcb4b301")
 	)
-	(label "DEBUG_LED2"
+	(label "DEBUG_LED_2"
 		(at 45.72 126.365 0)
 		(effects
 			(font
@@ -6621,7 +6653,7 @@
 		)
 		(uuid "9a10dc34-d8b4-425d-bd42-11964eb41a55")
 	)
-	(hierarchical_label "FUSE_IS{FUSE_IS.0 FUSE_IS.1}"
+	(hierarchical_label "FUSE_ISO{FUSE_ISO.0 FUSE_ISO.1}"
 		(shape input)
 		(at 101.6 96.52 0)
 		(effects
@@ -8646,7 +8678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Samacsys:ATX11F32000MHZF05T"
+		(property "Footprint" "ATX11F32000MHZF05T:ATX11F32000MHZF05T"
 			(at 110.49 129.21 0)
 			(hide yes)
 			(show_name no)

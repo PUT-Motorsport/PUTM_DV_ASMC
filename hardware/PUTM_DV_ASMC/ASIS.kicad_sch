@@ -2330,7 +2330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Local_Library:Diodes_UDFN2020-6_Type-F"
+		(property "Footprint" "UDFN2020-6:Diodes_UDFN2020-6_Type-F"
 			(at 59.69 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2978,7 +2978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Local_Library:Diodes_UDFN2020-6_Type-F"
+		(property "Footprint" "UDFN2020-6:Diodes_UDFN2020-6_Type-F"
 			(at 243.84 101.6 0)
 			(hide yes)
 			(show_name no)
