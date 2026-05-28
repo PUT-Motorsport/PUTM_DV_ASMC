@@ -5570,7 +5570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PDM:SOP65P600X115-25N"
+		(property "Footprint" "BTS722204ESAXUMA1:SOP65P600X115-25N"
 			(at 175.26 174.93 0)
 			(hide yes)
 			(show_name no)

@@ -5807,7 +5807,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N4007"
+		(property "Value" "SMBJ30A"
 			(at 163.83 124.4599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5818,7 +5818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 156.845 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -5829,7 +5829,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/88503/1n4001.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/88392/smbj.pdf"
 			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Description" "1000V 1A General Purpose Rectifier Diode, DO-41"
+		(property "Description" "ESD Protection Diodes / TVS Diodes 30V 1000W UniDir TransZorb 5% Tol"
 			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
