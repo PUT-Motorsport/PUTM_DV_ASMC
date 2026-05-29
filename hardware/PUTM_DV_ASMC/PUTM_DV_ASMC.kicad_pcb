@@ -6213,9 +6213,9 @@
 			(size 1.55 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/ASIS/ASSI_DI_PIN")
+			(net "unconnected-(U2-PB11-Pad33)")
 			(pinfunction "PB11_33")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "67567df4-f491-45fb-a220-dad832820d08")
 		)
 		(pad "34" smd roundrect
@@ -6263,9 +6263,9 @@
 			(size 1.55 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U2-PC6-Pad38)")
+			(net "/ASIS/ASSI_DO_PIN")
 			(pinfunction "PC6_38")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "df83a0d2-4562-427f-a5be-93ad19446fa9")
 		)
 		(pad "39" smd roundrect
@@ -6273,9 +6273,9 @@
 			(size 1.55 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U2-PC7-Pad39)")
+			(net "/ASIS/ASSI_DI_PIN")
 			(pinfunction "PC7_39")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "c2df3cda-34ed-4c40-b44f-6c26a9128cd2")
 		)
 		(pad "40" smd roundrect
@@ -6393,9 +6393,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U2-PA15-Pad51)")
+			(net "/Microcontroller/DEBUG_LED_1")
 			(pinfunction "PA15_51")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "1d3c0971-673a-4d80-86c9-b2c820ac7df1")
 		)
 		(pad "52" smd roundrect
@@ -6403,9 +6403,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U2-PC10-Pad52)")
+			(net "/Microcontroller/DEBUG_LED_4")
 			(pinfunction "PC10_52")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "28fe6bd7-e0c2-416e-ae03-d26e5dc8492f")
 		)
 		(pad "53" smd roundrect
@@ -6413,9 +6413,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U2-PC11-Pad53)")
+			(net "/Microcontroller/DEBUG_LED_3")
 			(pinfunction "PC11_53")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "aea06697-5761-4782-8db7-366cc2e6ebc2")
 		)
 		(pad "54" smd roundrect
@@ -6423,9 +6423,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U2-PC12-Pad54)")
+			(net "/Microcontroller/DEBUG_LED_2")
 			(pinfunction "PC12_54")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "f6c33a16-9727-4c6c-bf1f-c61eede50b6e")
 		)
 		(pad "55" smd roundrect
@@ -6453,9 +6453,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/Microcontroller/DEBUG_LED_1")
+			(net "unconnected-(U2-PB4-Pad57)")
 			(pinfunction "PB4_57")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "d8f9763c-9744-4f56-ad6c-1f03356a3553")
 		)
 		(pad "58" smd roundrect
@@ -6463,9 +6463,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/Microcontroller/DEBUG_LED_2")
+			(net "unconnected-(U2-PB5-Pad58)")
 			(pinfunction "PB5_58")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "cb37929f-bf95-48be-8e74-f405e0604589")
 		)
 		(pad "59" smd roundrect
@@ -6473,9 +6473,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/Microcontroller/DEBUG_LED_3")
+			(net "unconnected-(U2-PB6-Pad59)")
 			(pinfunction "PB6_59")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "6445cb48-1cec-4328-801d-138bf954dbe7")
 		)
 		(pad "60" smd roundrect
@@ -6483,9 +6483,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/Microcontroller/DEBUG_LED_4")
+			(net "unconnected-(U2-PB7-Pad60)")
 			(pinfunction "PB7_60")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "d79b7f0a-659e-4ad2-abee-69471ff58f79")
 		)
 		(pad "61" smd roundrect
@@ -6503,9 +6503,9 @@
 			(size 0.3 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/ASIS/ASSI_DO_PIN")
+			(net "unconnected-(U2-PB9-Pad62)")
 			(pinfunction "PB9_62")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "aa634106-4c23-40a1-b35e-f0d9499cd8c2")
 		)
 		(pad "63" smd roundrect
@@ -7526,7 +7526,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "28a262cc-7052-4005-88a9-c24e2cf2c1d8")
-		(at 181.5125 117.67 180)
+		(at 177.4875 106.4 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
@@ -7956,7 +7956,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "2bb2ead0-aab8-4d53-889e-e675dee37bd5")
-		(at 185.3125 114.17)
+		(at 181.2875 102.9)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED handsolder")
 		(property "Reference" "D1"
@@ -8768,7 +8768,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3625ef0c-8202-48e3-a477-2351fe88fd24")
-		(at 185.325 119.47)
+		(at 181.3 108.2)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED handsolder")
 		(property "Reference" "D4"
@@ -15345,7 +15345,7 @@
 	(footprint "MountingHole:MountingHole_3mm_Pad_Via"
 		(layer "F.Cu")
 		(uuid "578773fc-b43e-4909-9c01-16b9a62a23ea")
-		(at 216.965 111.165)
+		(at 228.20901 161.00901)
 		(descr "Mounting Hole 3mm")
 		(tags "mounting hole 3mm")
 		(property "Reference" "REF**"
@@ -17339,7 +17339,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "62982447-8b03-4082-bf03-e2d2a5fc541a")
-		(at 181.4875 114.14)
+		(at 177.4625 102.87)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
@@ -19878,7 +19878,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "705aadfb-d394-46d9-9c08-8caf3f46d7b2")
-		(at 181.5125 119.47 180)
+		(at 177.4875 108.2 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
@@ -27380,7 +27380,7 @@
 	(footprint "MountingHole:MountingHole_3mm_Pad_Via"
 		(layer "F.Cu")
 		(uuid "a80e7363-ef7e-4d32-a6b5-9acef3f9558f")
-		(at 216.965 60.965)
+		(at 216.80901 159.60901)
 		(descr "Mounting Hole 3mm")
 		(tags "mounting hole 3mm")
 		(property "Reference" "REF**"
@@ -29842,7 +29842,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "b104e0af-4842-44b3-b5b1-2f02014bbf7a")
-		(at 185.3375 115.87)
+		(at 181.3125 104.6)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED handsolder")
 		(property "Reference" "D2"
@@ -32529,7 +32529,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "bbefe330-6779-48b4-b9cc-4415c2522e50")
-		(at 181.5125 115.85 180)
+		(at 177.4875 104.58 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
@@ -40496,7 +40496,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "eec84b33-e170-4f45-bb6b-477683b45172")
-		(at 185.3375 117.68)
+		(at 181.3125 106.41)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED handsolder")
 		(property "Reference" "D3"
