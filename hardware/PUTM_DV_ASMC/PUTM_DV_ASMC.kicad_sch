@@ -1061,26 +1061,6 @@
 				(justify left top)
 			)
 		)
-		(pin "LHI{LHI.0 LHI.1}" input
-			(at 166.37 50.8 180)
-			(uuid "e4fb031b-5132-4b4e-9e9e-6846c499a161")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SPI1_Bus{SPI}" bidirectional
-			(at 166.37 44.45 180)
-			(uuid "644cc6d8-f910-4ffe-84d6-87d17ba9fa8e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "OUT_ASSI" output
 			(at 210.82 43.18 0)
 			(uuid "f833757c-f796-456c-b6e9-159989e71d61")
@@ -1121,16 +1101,6 @@
 				(justify right)
 			)
 		)
-		(pin "FUSE_ISO{FUSE_ISO.0 FUSE_ISO.1}" output
-			(at 166.37 57.15 180)
-			(uuid "f271889e-edc7-42b1-8e0f-c16a78431680")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "ODRIVE[1..4]" output
 			(at 210.82 60.96 0)
 			(uuid "45fdfa8e-4ab7-4c20-83a4-a885d5f5c404")
@@ -1139,6 +1109,36 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "SPI1{NSS SCK MISO MOSI}" bidirectional
+			(at 166.37 44.45 180)
+			(uuid "39746798-6610-4386-84ba-c3239b66b865")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FUSE_IS[0..1]" output
+			(at 166.37 57.15 180)
+			(uuid "4d49f680-cfb7-4e75-9434-799b70c13474")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LHI[0..1]" input
+			(at 166.37 50.8 180)
+			(uuid "c29091b5-3f11-42d6-a4d5-f0843a972abd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -1217,29 +1217,9 @@
 				(justify right)
 			)
 		)
-		(pin "LHI{LHI.0 LHI.1}" input
-			(at 144.78 50.8 0)
-			(uuid "7d54c3bb-9a8c-4a83-b96e-ab9b5395530e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "RES_SENSE_PIN" input
 			(at 144.78 135.89 0)
 			(uuid "7b3ed654-f58c-4b82-a027-744e46655f20")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SPI1_Bus{SPI}" bidirectional
-			(at 144.78 44.45 0)
-			(uuid "08de8093-aaf2-4450-97ee-f1d7881a714d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1357,9 +1337,29 @@
 				(justify right)
 			)
 		)
-		(pin "FUSE_ISO{FUSE_ISO.0 FUSE_ISO.1}" input
+		(pin "SPI1{NSS SCK MISO MOSI}" bidirectional
+			(at 144.78 44.45 0)
+			(uuid "afebf3b4-1a01-435d-bfd8-2d984f9ebe4b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FUSE_IS[0..1]" input
 			(at 144.78 57.15 0)
-			(uuid "39198e5c-e174-4a93-9e9d-9bd64c361e62")
+			(uuid "b3369c7c-7cba-4d65-8b2a-0ed7832ad184")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LHI[0..1]" input
+			(at 144.78 50.8 0)
+			(uuid "6ee53a6c-e45c-49be-b154-01546cffc197")
 			(effects
 				(font
 					(size 1.27 1.27)

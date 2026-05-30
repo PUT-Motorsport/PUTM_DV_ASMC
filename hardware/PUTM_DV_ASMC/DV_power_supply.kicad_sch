@@ -780,7 +780,7 @@
 		)
 		(uuid "fc9d172f-1268-4ff7-803c-08bfdd4c9448")
 	)
-	(label "SPI.MISO"
+	(label "SPI1.MISO"
 		(at 66.04 116.84 0)
 		(effects
 			(font
@@ -790,7 +790,7 @@
 		)
 		(uuid "0b9c3704-8ac3-4d26-909c-b7f947c0f649")
 	)
-	(label "LHI.0"
+	(label "LHI0"
 		(at 66.04 128.27 0)
 		(effects
 			(font
@@ -800,7 +800,27 @@
 		)
 		(uuid "1f997da4-b43f-4c62-9ac4-d7e90f643f39")
 	)
-	(label "SPI.NSS"
+	(label "FUSE_IS0"
+		(at 64.77 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "381f99e4-81ea-4b06-915e-1ed607dacfb0")
+	)
+	(label "FUSE_IS1"
+		(at 64.77 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "62375b61-242f-4dbc-810e-553078c0996e")
+	)
+	(label "SPI1.NSS"
 		(at 66.04 111.76 0)
 		(effects
 			(font
@@ -810,7 +830,7 @@
 		)
 		(uuid "9fbf2eb2-101b-4280-ab42-729a31f9f570")
 	)
-	(label "SPI.MOSI"
+	(label "SPI1.MOSI"
 		(at 66.04 114.3 0)
 		(effects
 			(font
@@ -820,7 +840,7 @@
 		)
 		(uuid "a91b83bd-e7b0-438d-a33a-16f0f1621e63")
 	)
-	(label "LHI.1"
+	(label "LHI1"
 		(at 66.04 130.81 0)
 		(effects
 			(font
@@ -830,7 +850,7 @@
 		)
 		(uuid "ad80ab3f-bc94-4eed-a467-82dac8143776")
 	)
-	(label "SPI.SCK"
+	(label "SPI1.SCK"
 		(at 66.04 109.22 0)
 		(effects
 			(font
@@ -884,7 +904,7 @@
 		)
 		(uuid "632ae624-e13c-409e-8029-5b8502b4091d")
 	)
-	(hierarchical_label "SPI1_Bus{SPI}"
+	(hierarchical_label "SPI1{NSS SCK MISO MOSI}"
 		(shape bidirectional)
 		(at 57.15 95.25 180)
 		(effects
@@ -895,7 +915,7 @@
 		)
 		(uuid "7a27e0e6-d401-4be7-b32f-a39b0bbd5dc4")
 	)
-	(hierarchical_label "FUSE_ISO{FUSE_ISO.0 FUSE_ISO.1}"
+	(hierarchical_label "FUSE_IS[0..1]"
 		(shape output)
 		(at 58.42 139.7 180)
 		(effects
@@ -917,7 +937,7 @@
 		)
 		(uuid "f05570a0-135e-41f9-aea5-67a376f55516")
 	)
-	(hierarchical_label "LHI{LHI.0 LHI.1}"
+	(hierarchical_label "LHI[0..1]"
 		(shape input)
 		(at 58.42 121.92 180)
 		(effects
