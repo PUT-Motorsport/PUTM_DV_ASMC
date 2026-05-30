@@ -5957,7 +5957,7 @@
 		)
 		(uuid "2c836236-5f83-4c1c-a68e-22ecbd630964")
 	)
-	(label "DEBUG_LED_4"
+	(label "DEBUG_LED_3"
 		(at 180.34 104.14 0)
 		(effects
 			(font
@@ -6097,7 +6097,7 @@
 		)
 		(uuid "70a6da2e-d21e-4e71-94a5-1431bebfe3a1")
 	)
-	(label "DEBUG_LED_1"
+	(label "DEBUG_LED_4"
 		(at 251.46 93.98 180)
 		(effects
 			(font
@@ -6247,7 +6247,7 @@
 		)
 		(uuid "ce20fbec-1ca1-43f1-a44a-7cffc2239573")
 	)
-	(label "DEBUG_LED_3"
+	(label "DEBUG_LED_2"
 		(at 180.34 106.68 0)
 		(effects
 			(font
@@ -6267,7 +6267,7 @@
 		)
 		(uuid "d2abbe86-6637-4de1-bf6f-dfd6d50b96e9")
 	)
-	(label "DEBUG_LED_2"
+	(label "DEBUG_LED_1"
 		(at 180.34 109.22 0)
 		(effects
 			(font

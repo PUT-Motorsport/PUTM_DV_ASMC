@@ -3982,7 +3982,7 @@
 		)
 		(uuid "9ed53b3a-7461-45ae-b144-552792b8ed6a")
 	)
-	(label "CAN2_P"
+	(label "CAN2_N"
 		(at 132.08 50.8 180)
 		(effects
 			(font
@@ -4052,7 +4052,7 @@
 		)
 		(uuid "e0f29306-90d5-4dd1-83ed-4097aa13756d")
 	)
-	(label "CAN2_N"
+	(label "CAN2_P"
 		(at 132.08 53.34 180)
 		(effects
 			(font
