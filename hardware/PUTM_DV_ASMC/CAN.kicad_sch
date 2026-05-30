@@ -3426,7 +3426,7 @@
 		)
 		(uuid "ffecdddd-5d11-4cce-8ffa-178121f15bf4")
 	)
-	(label "CAN1-"
+	(label "CAN1_N"
 		(at 95.25 52.07 0)
 		(effects
 			(font
@@ -3436,16 +3436,6 @@
 		)
 		(uuid "1a09a97b-02b6-43e3-b095-084716ec8ad4")
 	)
-	(label "CAN2_TX"
-		(at 139.7 148.59 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "223113a4-af5d-45d9-899c-9222b2f45944")
-	)
 	(label "CAN1_RX"
 		(at 138.43 64.77 0)
 		(effects
@@ -3454,9 +3444,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "5ac15c4a-fb34-4d61-8945-06ce7a6cf96a")
+		(uuid "548c9433-d7d8-42a0-8323-0b8421f82f07")
 	)
-	(label "CAN2-"
+	(label "CAN2_N"
 		(at 95.25 138.43 0)
 		(effects
 			(font
@@ -3466,16 +3456,6 @@
 		)
 		(uuid "76311644-8252-47af-a40e-af5470f83966")
 	)
-	(label "CAN2_RX"
-		(at 139.7 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ce455753-f8f4-4838-8662-ccdd20a27898")
-	)
 	(label "CAN1_TX"
 		(at 138.43 62.23 0)
 		(effects
@@ -3484,9 +3464,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "e35c323e-b9f2-444a-82be-624c1f623ade")
+		(uuid "a0adb1a5-27fc-4b90-842c-e845f3cae8e8")
 	)
-	(label "CAN1+"
+	(label "CAN2_TX"
+		(at 139.7 148.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a8045a1d-62d5-4f1f-bd5f-b7eb443ea374")
+	)
+	(label "CAN1_P"
 		(at 95.25 49.53 0)
 		(effects
 			(font
@@ -3496,7 +3486,7 @@
 		)
 		(uuid "e44af6be-8256-4bec-827b-fda945d3d0aa")
 	)
-	(label "CAN2+"
+	(label "CAN2_P"
 		(at 95.25 135.89 0)
 		(effects
 			(font
@@ -3505,6 +3495,16 @@
 			(justify left bottom)
 		)
 		(uuid "eafdb8df-6a99-4f49-b198-5d46eb7992a1")
+	)
+	(label "CAN2_RX"
+		(at 139.7 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe5b0758-8136-4169-a8f3-cde41e0fcbae")
 	)
 	(hierarchical_label "STBY_CAN_1"
 		(shape input)
@@ -3517,16 +3517,27 @@
 		)
 		(uuid "24ebd2bf-b970-44ec-b3b7-d3ccaee54bc3")
 	)
-	(hierarchical_label "{CAN1_MCU}"
+	(hierarchical_label "{CAN2_MCU}"
 		(shape bidirectional)
-		(at 175.26 67.31 0)
+		(at 175.26 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "6c960e8d-5470-44bb-b292-540f1da34176")
+		(uuid "368cf42c-02b3-4939-ad85-511f1e384a3a")
+	)
+	(hierarchical_label "{CAN2}"
+		(shape bidirectional)
+		(at 83.82 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5d90de47-5884-4291-9942-f60b8f53fb92")
 	)
 	(hierarchical_label "STBY_CAN_2"
 		(shape input)
@@ -3539,27 +3550,16 @@
 		)
 		(uuid "7fd991c2-3e1a-4fa1-9fa9-6de418e5590e")
 	)
-	(hierarchical_label "{CAN2_MCU}"
+	(hierarchical_label "{CAN1_MCU}"
 		(shape bidirectional)
-		(at 175.26 153.67 0)
+		(at 175.26 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "c31539dd-cac7-4bce-bcad-cfef3ddd8fe2")
-	)
-	(hierarchical_label "{CAN2}"
-		(shape bidirectional)
-		(at 83.82 138.43 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d10887fc-8f17-40b8-9d4c-274c5f4e9e68")
+		(uuid "cceecf1b-cbfd-4f57-bf24-a42d0585203b")
 	)
 	(hierarchical_label "GND_CAN_ISO1"
 		(shape output)

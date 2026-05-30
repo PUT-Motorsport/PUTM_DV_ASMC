@@ -8,129 +8,6 @@
 		(title "MCU Section")
 	)
 	(lib_symbols
-		(symbol "Connector:TestPoint_Small"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.762)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "TP"
-				(at 0 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint_Small"
-				(at 0 2.032 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 5.08 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 5.08 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "test point"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "test point tp"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "TestPoint_Small_0_1"
-				(circle
-					(center 0 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "TestPoint_Small_1_1"
-				(pin passive line
-					(at 0 0 90)
-					(length 0)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -6060,16 +5937,6 @@
 		)
 		(uuid "10c56de7-eb13-4f9b-b93f-2018a6de5a2b")
 	)
-	(label "CAN2_TX"
-		(at 251.46 132.08 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "152402d2-c17d-431b-afcb-63eeb0578284")
-	)
 	(label "SPI1.MISO"
 		(at 251.46 71.12 180)
 		(effects
@@ -6079,16 +5946,6 @@
 			(justify right bottom)
 		)
 		(uuid "258f2e96-fe9d-403a-8ccd-af9eed779918")
-	)
-	(label "CAN1_RX"
-		(at 251.46 83.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2c48a7de-43e9-403c-b035-872df63d4fa6")
 	)
 	(label "SWCLK"
 		(at 87.63 181.61 180)
@@ -6149,16 +6006,6 @@
 			(justify right bottom)
 		)
 		(uuid "43878e35-b60b-4aa4-94fd-ba35929ea204")
-	)
-	(label "CAN1_TX"
-		(at 251.46 86.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4ba3eb4e-3228-4753-b1b3-e03b3cec919c")
 	)
 	(label "SWDIO"
 		(at 251.46 88.9 180)
@@ -6260,16 +6107,6 @@
 		)
 		(uuid "70e5ada7-b068-45f8-82f0-d395a3bd54bb")
 	)
-	(label "CAN2_RX"
-		(at 251.46 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7db3fbf8-2404-4d61-bf76-7fa33fafcbcb")
-	)
 	(label "SPI1.MISO"
 		(at 86.36 133.35 180)
 		(effects
@@ -6340,6 +6177,16 @@
 		)
 		(uuid "a502cd61-4a49-4ac6-b3e5-22837186c2cd")
 	)
+	(label "CAN2_TX"
+		(at 251.46 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a7989c2b-ec72-4e7f-8e3a-64114a9f8137")
+	)
 	(label "VREF"
 		(at 190.5 55.88 0)
 		(effects
@@ -6369,6 +6216,16 @@
 			(justify right bottom)
 		)
 		(uuid "b907b8dc-1467-44e9-971a-74e9b4ec814a")
+	)
+	(label "CAN1_RX"
+		(at 251.46 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "be0345f9-98fb-4d83-86ba-d395b4d7079d")
 	)
 	(label "LHI0"
 		(at 251.46 55.88 180)
@@ -6420,6 +6277,16 @@
 		)
 		(uuid "d4d95546-d872-4dc9-9b94-f8f442c58e2b")
 	)
+	(label "CAN1_TX"
+		(at 251.46 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d4f2f50a-2461-46d7-8ccb-3a5bae9d2255")
+	)
 	(label "SPI1.NSS"
 		(at 251.46 76.2 180)
 		(effects
@@ -6439,6 +6306,16 @@
 			(justify right bottom)
 		)
 		(uuid "de2a10b4-af86-46cc-808b-9523aa749489")
+	)
+	(label "CAN2_RX"
+		(at 251.46 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f78566e0-0634-4673-b68d-641be9eebf8f")
 	)
 	(label "DEBUG_LED_2"
 		(at 49.53 127 0)
@@ -6625,8 +6502,8 @@
 		)
 		(uuid "a4f8a10d-5dfe-4bf3-926a-52a7148cbdab")
 	)
-	(hierarchical_label "{ST_LINK}"
-		(shape bidirectional)
+	(hierarchical_label "{ST-LINK}"
+		(shape input)
 		(at 111.76 165.1 0)
 		(effects
 			(font
@@ -11268,85 +11145,6 @@
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/e9155621-e51e-4c8e-b02a-95579a590de1"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Small")
-		(at 38.1 34.29 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ff4bb743-ccd5-44ae-ab06-f08687164833")
-		(property "Reference" "TP1"
-			(at 34.29 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Small"
-			(at 39.37 36.195 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 43.18 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 38.1 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8c0ba323-ce25-4b3c-9993-be54710bc735")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/e9155621-e51e-4c8e-b02a-95579a590de1"
-					(reference "TP1")
 					(unit 1)
 				)
 			)

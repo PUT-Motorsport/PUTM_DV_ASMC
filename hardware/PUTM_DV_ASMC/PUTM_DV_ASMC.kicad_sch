@@ -451,9 +451,29 @@
 				(justify left)
 			)
 		)
+		(pin "{CAN2}" bidirectional
+			(at 210.82 91.44 0)
+			(uuid "882305fe-1220-44bb-a47e-bb59aee80133")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(pin "{CAN1_MCU}" bidirectional
 			(at 166.37 81.28 180)
-			(uuid "fbba8cd5-dbd7-4d23-9014-4209d75db65f")
+			(uuid "8d0de2fb-d2d4-473a-b055-4a7159e5a8ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{CAN2_MCU}" bidirectional
+			(at 166.37 92.71 180)
+			(uuid "b0e106f5-efb3-43ff-8da5-7c49dd704977")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -463,27 +483,7 @@
 		)
 		(pin "{CAN1}" bidirectional
 			(at 210.82 78.74 0)
-			(uuid "a4b22c52-1b88-4921-83b8-2ef337234084")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "{CAN2_MCU}" bidirectional
-			(at 166.37 92.71 180)
-			(uuid "1be9288a-2200-4af3-9576-caa78086f9ef")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "{CAN2}" bidirectional
-			(at 210.82 91.44 0)
-			(uuid "882305fe-1220-44bb-a47e-bb59aee80133")
+			(uuid "dadde253-97d4-402c-87d0-40a0cf865029")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -869,16 +869,6 @@
 				(justify left)
 			)
 		)
-		(pin "{CAN1}" bidirectional
-			(at 237.49 78.74 180)
-			(uuid "fbc3db35-8c1e-44d6-b2b5-4b967f9ea28a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "{CAN2}" bidirectional
 			(at 237.49 91.44 180)
 			(uuid "e9969df1-73a6-454b-bcfa-aee99f1236a8")
@@ -922,6 +912,16 @@
 		(pin "ODRIVE[1..4]" input
 			(at 237.49 60.96 180)
 			(uuid "dd51f275-431c-4367-ad26-87bfd827e132")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{CAN1}" bidirectional
+			(at 237.49 78.74 180)
+			(uuid "825f7765-5a4a-4282-8c24-1ed11b311f25")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1247,27 +1247,7 @@
 				(justify right)
 			)
 		)
-		(pin "{CAN1_MCU}" bidirectional
-			(at 144.78 81.28 0)
-			(uuid "5f02887c-4c3a-4426-bacd-45e756ca9c7c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "{CAN2_MCU}" bidirectional
-			(at 144.78 92.71 0)
-			(uuid "7c9ad8e4-0807-4e47-a8ae-7cb9e12e3120")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "{ST_LINK}" bidirectional
+		(pin "{ST-LINK}" input
 			(at 144.78 148.59 0)
 			(uuid "9ba5d3a2-a5c4-47b5-88bb-1d243602292b")
 			(effects
@@ -1360,6 +1340,26 @@
 		(pin "LHI[0..1]" input
 			(at 144.78 50.8 0)
 			(uuid "6ee53a6c-e45c-49be-b154-01546cffc197")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{CAN1_MCU}" bidirectional
+			(at 144.78 81.28 0)
+			(uuid "862d4bc5-8a45-4ed4-b320-c3b0e3e01968")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{CAN2_MCU}" bidirectional
+			(at 144.78 92.71 0)
+			(uuid "379b3dfe-d300-4ef6-a546-b2ebdef39faf")
 			(effects
 				(font
 					(size 1.27 1.27)
