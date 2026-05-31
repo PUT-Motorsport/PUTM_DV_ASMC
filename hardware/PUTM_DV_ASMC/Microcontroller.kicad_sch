@@ -5887,7 +5887,7 @@
 		)
 		(uuid "04b3f8ec-55b1-4a6b-8b00-b6de131d0da4")
 	)
-	(label "CAN1_RX"
+	(label "CAN1-"
 		(at 27.94 173.99 180)
 		(effects
 			(font
@@ -6047,7 +6047,7 @@
 		)
 		(uuid "5192990f-f9e8-4c7d-b0b7-43ae0abaf6c4")
 	)
-	(label "CAN1_TX"
+	(label "CAN1+"
 		(at 27.94 177.8 180)
 		(effects
 			(font
@@ -6147,7 +6147,7 @@
 		)
 		(uuid "8cb2daff-c474-4bc4-bc42-f56fd850b64b")
 	)
-	(label "CAN2_TX"
+	(label "CAN2+"
 		(at 27.94 194.31 180)
 		(effects
 			(font
@@ -6177,7 +6177,7 @@
 		)
 		(uuid "a502cd61-4a49-4ac6-b3e5-22837186c2cd")
 	)
-	(label "CAN2_TX"
+	(label "CAN2+"
 		(at 251.46 132.08 180)
 		(effects
 			(font
@@ -6197,7 +6197,7 @@
 		)
 		(uuid "ac566058-e034-4f50-bd9f-0ee958557db5")
 	)
-	(label "CAN2_RX"
+	(label "CAN2-"
 		(at 27.94 190.5 180)
 		(effects
 			(font
@@ -6217,7 +6217,7 @@
 		)
 		(uuid "b907b8dc-1467-44e9-971a-74e9b4ec814a")
 	)
-	(label "CAN1_RX"
+	(label "CAN1-"
 		(at 251.46 83.82 180)
 		(effects
 			(font
@@ -6277,7 +6277,7 @@
 		)
 		(uuid "d4d95546-d872-4dc9-9b94-f8f442c58e2b")
 	)
-	(label "CAN1_TX"
+	(label "CAN1+"
 		(at 251.46 86.36 180)
 		(effects
 			(font
@@ -6307,7 +6307,7 @@
 		)
 		(uuid "de2a10b4-af86-46cc-808b-9523aa749489")
 	)
-	(label "CAN2_RX"
+	(label "CAN2-"
 		(at 251.46 129.54 180)
 		(effects
 			(font
