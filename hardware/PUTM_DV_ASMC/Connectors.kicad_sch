@@ -4139,7 +4139,7 @@
 		)
 		(uuid "63de94b5-c7ff-4d05-9609-9c5c5220a8fc")
 	)
-	(hierarchical_label "ASSI_DI"
+	(hierarchical_label "ASSI_OUT2"
 		(shape input)
 		(at 63.5 45.72 180)
 		(effects
@@ -4293,7 +4293,7 @@
 		)
 		(uuid "f8cc8a69-31e4-4a73-85e6-990ebc97f127")
 	)
-	(hierarchical_label "ASSI_DO"
+	(hierarchical_label "ASSI_OUT1"
 		(shape input)
 		(at 63.5 43.18 180)
 		(effects

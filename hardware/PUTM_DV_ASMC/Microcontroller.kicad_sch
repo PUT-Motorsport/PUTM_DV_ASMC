@@ -6480,7 +6480,7 @@
 		)
 		(uuid "9a10dc34-d8b4-425d-bd42-11964eb41a55")
 	)
-	(hierarchical_label "ASSI_DO_PIN"
+	(hierarchical_label "ASSI_SIG1_PIN"
 		(shape output)
 		(at 175.26 93.98 180)
 		(effects
@@ -6513,8 +6513,8 @@
 		)
 		(uuid "dd76f36e-a92f-4af8-91f8-4fd1cb441e9d")
 	)
-	(hierarchical_label "ASSI_DI_PIN"
-		(shape bidirectional)
+	(hierarchical_label "ASSI_SIG2_PIN"
+		(shape output)
 		(at 175.26 96.52 180)
 		(effects
 			(font

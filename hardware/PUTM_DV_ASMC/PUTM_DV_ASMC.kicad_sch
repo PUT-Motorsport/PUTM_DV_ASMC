@@ -719,26 +719,6 @@
 				(justify left top)
 			)
 		)
-		(pin "ASSI_DI" input
-			(at 237.49 27.94 180)
-			(uuid "8a99503d-7193-4efd-87b5-1cb065a46791")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "ASSI_DO" input
-			(at 237.49 30.48 180)
-			(uuid "6a5bcf15-c251-418d-a443-3121240474ea")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "AS_SAFETY" output
 			(at 237.49 135.89 180)
 			(uuid "f0952358-5f1a-4cea-a506-00ac30772ab4")
@@ -929,6 +909,26 @@
 				(justify left)
 			)
 		)
+		(pin "ASSI_OUT1" input
+			(at 237.49 27.94 180)
+			(uuid "36c4e791-aa41-4023-ac7c-29ebe9533d66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ASSI_OUT2" input
+			(at 237.49 30.48 180)
+			(uuid "fe3c33c9-4c50-4445-9894-8eaa22777d02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45"
@@ -975,9 +975,9 @@
 				(justify left top)
 			)
 		)
-		(pin "ASSI_DI" output
+		(pin "ASSI_OUT1" output
 			(at 210.82 27.94 0)
-			(uuid "ced21cf8-9192-4da1-a23d-677c25fa2b47")
+			(uuid "39968ae6-c9e9-4f40-af93-f4b213bda7f7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -985,9 +985,19 @@
 				(justify right)
 			)
 		)
-		(pin "ASSI_DI_PIN" input
+		(pin "ASSI_OUT2" output
+			(at 210.82 30.48 0)
+			(uuid "f11a5493-2f85-4575-a50c-e51464d5619a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ASSI_SIG1" input
 			(at 166.37 27.94 180)
-			(uuid "1dde4b3b-3594-493b-b004-82d532b57d74")
+			(uuid "f63d3601-351d-48d9-94c3-bae407dac4d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -995,19 +1005,9 @@
 				(justify left)
 			)
 		)
-		(pin "ASSI_DO" output
-			(at 210.82 30.48 0)
-			(uuid "84bf9c5e-b8c6-4522-bb87-8c50c8448a36")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ASSI_DO_PIN" input
+		(pin "ASSI_SIG2" input
 			(at 166.37 30.48 180)
-			(uuid "1aac73c3-c8bd-4122-b5bb-149b0eb2abb2")
+			(uuid "3b7ed1dc-f940-430a-8a2d-2e1743b0bb9f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1187,26 +1187,6 @@
 				(justify left top)
 			)
 		)
-		(pin "ASSI_DI_PIN" bidirectional
-			(at 144.78 27.94 0)
-			(uuid "ab1e68de-2cd9-4ea6-a0d9-04d5f5e00d00")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ASSI_DO_PIN" output
-			(at 144.78 30.48 0)
-			(uuid "7f654e7d-ae04-45e2-acfa-049f5a99961d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "AS_SENSE_PIN" input
 			(at 144.78 128.27 0)
 			(uuid "68cd9e53-be29-48be-96be-fe4f3ab6b96b")
@@ -1360,6 +1340,26 @@
 		(pin "{CAN2_MCU}" bidirectional
 			(at 144.78 92.71 0)
 			(uuid "379b3dfe-d300-4ef6-a546-b2ebdef39faf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ASSI_SIG1_PIN" output
+			(at 144.78 27.94 0)
+			(uuid "10e42bca-ffd6-41b0-9162-94e75753334c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ASSI_SIG2_PIN" output
+			(at 144.78 30.48 0)
+			(uuid "78c73fa1-889b-426a-948a-4156f27e1eca")
 			(effects
 				(font
 					(size 1.27 1.27)
