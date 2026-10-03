@@ -1111,16 +1111,6 @@
 				(justify right)
 			)
 		)
-		(pin "SPI1{NSS SCK MISO MOSI}" bidirectional
-			(at 166.37 44.45 180)
-			(uuid "39746798-6610-4386-84ba-c3239b66b865")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "FUSE_IS[0..1]" output
 			(at 166.37 57.15 180)
 			(uuid "4d49f680-cfb7-4e75-9434-799b70c13474")
@@ -1134,6 +1124,16 @@
 		(pin "LHI[0..1]" input
 			(at 166.37 50.8 180)
 			(uuid "c29091b5-3f11-42d6-a4d5-f0843a972abd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI1{CSN1 CSN2 SCK MISO MOSI}" bidirectional
+			(at 166.37 44.45 180)
+			(uuid "63a9e055-75b4-499d-add1-c225bd089f5e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1297,16 +1297,6 @@
 				(justify right)
 			)
 		)
-		(pin "SPI1{NSS SCK MISO MOSI}" bidirectional
-			(at 144.78 44.45 0)
-			(uuid "afebf3b4-1a01-435d-bfd8-2d984f9ebe4b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "FUSE_IS[0..1]" input
 			(at 144.78 57.15 0)
 			(uuid "b3369c7c-7cba-4d65-8b2a-0ed7832ad184")
@@ -1360,6 +1350,16 @@
 		(pin "ASSI_SIG2_PIN" output
 			(at 144.78 30.48 0)
 			(uuid "78c73fa1-889b-426a-948a-4156f27e1eca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI1{CSN1 CSN2 SCK MISO MOSI}" bidirectional
+			(at 144.78 44.45 0)
+			(uuid "4aab18e4-4509-41c3-b1a0-6bb2d296a268")
 			(effects
 				(font
 					(size 1.27 1.27)

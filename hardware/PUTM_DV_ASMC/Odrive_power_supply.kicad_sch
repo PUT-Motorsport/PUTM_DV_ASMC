@@ -2724,7 +2724,7 @@
 		)
 		(uuid "a6979284-82a7-4415-8fd6-36a9d4d5b094")
 	)
-	(hierarchical_label "NSS"
+	(hierarchical_label "CSN1"
 		(shape input)
 		(at 99.06 91.44 180)
 		(effects
