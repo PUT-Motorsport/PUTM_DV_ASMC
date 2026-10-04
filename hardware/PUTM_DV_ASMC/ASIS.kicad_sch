@@ -1284,22 +1284,10 @@
 		(uuid "e3c5f1a6-9f8a-4347-9fa5-bfc8a133c434")
 	)
 	(junction
-		(at 138.43 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "082ccb79-ad4e-4538-9b10-a2f3bfabf1c4")
-	)
-	(junction
 		(at 151.13 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35cd6c1c-0c5d-42a8-b0fd-e1801e5bee8c")
-	)
-	(junction
-		(at 143.51 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3bfc20e8-d72a-4c5c-afef-0963fd024732")
 	)
 	(junction
 		(at 135.89 127)
@@ -1308,10 +1296,26 @@
 		(uuid "a212b5a5-4aa7-4270-b50a-3ccb35c41e67")
 	)
 	(junction
+		(at 138.43 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2a3b602-c269-4d12-9e84-b02213aa24e9")
+	)
+	(junction
 		(at 119.38 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e476b5ee-53f3-4b24-b8f1-27a149183d91")
+	)
+	(wire
+		(pts
+			(xy 124.46 36.83) (xy 124.46 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "084fa3d3-d22e-4864-9bf2-d81419900370")
 	)
 	(wire
 		(pts
@@ -1322,6 +1326,16 @@
 			(type default)
 		)
 		(uuid "0ba01382-1542-4050-9929-c0e0fb5d6022")
+	)
+	(wire
+		(pts
+			(xy 133.35 36.83) (xy 138.43 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b823461-61fc-4ecf-b579-f63c94fd34b9")
 	)
 	(wire
 		(pts
@@ -1425,7 +1439,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 29.21) (xy 143.51 40.64)
+			(xy 143.51 29.21) (xy 143.51 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1465,13 +1479,13 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 40.64) (xy 143.51 41.91)
+			(xy 128.27 36.83) (xy 124.46 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aa696b1d-6c5e-48d1-a1d5-30b1c3fb441c")
+		(uuid "9d984ac0-bf76-4ca4-aa26-17e4b4580680")
 	)
 	(wire
 		(pts
@@ -1505,16 +1519,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 31.75) (xy 138.43 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6433720-bf36-45db-82c0-af88e44557b3")
-	)
-	(wire
-		(pts
 			(xy 135.89 101.6) (xy 135.89 114.3)
 		)
 		(stroke
@@ -1535,7 +1539,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 40.64) (xy 138.43 41.91)
+			(xy 138.43 31.75) (xy 138.43 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1552,6 +1556,16 @@
 			(type default)
 		)
 		(uuid "fd59a774-4b5d-4e06-95b6-baf4e8be26b7")
+	)
+	(wire
+		(pts
+			(xy 138.43 36.83) (xy 138.43 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feea03c7-a58a-4d98-a030-1921a942424c")
 	)
 	(image
 		(at 96.52 180.34)
@@ -3347,97 +3361,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 140.97 40.64 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "89c02c99-8d08-4f04-920f-b0f378324109")
-		(property "Reference" "C70"
-			(at 140.9763 34.29 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
-			(at 140.9763 36.83 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 140.97 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 140.97 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "."
-			(at 140.97 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "cf376dc8-88f9-40e8-b831-f2771f0cb018")
-		)
-		(pin "1"
-			(uuid "0053a81f-f12a-4297-8e06-f88599cafb6a")
-		)
-		(instances
-			(project "PUTM_DV_ASMC"
-				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/d075a50f-a25c-45f5-bd31-e195b1ffb400"
-					(reference "C70")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xGxx:74AHCT1G125")
 		(at 143.51 52.07 0)
 		(unit 1)
@@ -3521,6 +3444,97 @@
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/d075a50f-a25c-45f5-bd31-e195b1ffb400"
 					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 130.81 36.83 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9504117f-ca77-43ec-a3b1-17198796e4ef")
+		(property "Reference" "C70"
+			(at 130.8163 30.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100n"
+			(at 130.8163 33.02 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 130.81 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 130.81 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "."
+			(at 130.81 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "db25d084-8596-4a9d-abfc-a2ad56f1360b")
+		)
+		(pin "1"
+			(uuid "7b75f0ab-0b06-4ed9-bb9b-510da0a0e7f3")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/d075a50f-a25c-45f5-bd31-e195b1ffb400"
+					(reference "C70")
 					(unit 1)
 				)
 			)
@@ -3833,6 +3847,83 @@
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/d075a50f-a25c-45f5-bd31-e195b1ffb400"
 					(reference "#PWR090")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 124.46 39.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d8d4df5f-2384-4284-8adf-dcc3818a262d")
+		(property "Reference" "#PWR094"
+			(at 124.46 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 124.46 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3d60b34f-5f84-43e3-9d89-e1046cfe6433")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/d075a50f-a25c-45f5-bd31-e195b1ffb400"
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
