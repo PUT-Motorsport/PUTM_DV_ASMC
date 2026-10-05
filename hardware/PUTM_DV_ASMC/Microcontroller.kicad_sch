@@ -4096,10 +4096,6 @@
 		(uuid "b3c2a7a7-d596-4daa-9430-42d3d94b2afd")
 	)
 	(no_connect
-		(at 233.68 134.62)
-		(uuid "b7aa6e2e-e331-400e-a286-de3ec28e71c6")
-	)
-	(no_connect
 		(at 233.68 81.28)
 		(uuid "ba759f30-3914-4fd9-b217-c7bb778df409")
 	)
@@ -4394,6 +4390,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 134.62) (xy 256.54 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "198b80e9-9efc-437f-8373-c5deca5c20fa")
+	)
+	(wire
+		(pts
 			(xy 87.63 185.42) (xy 96.52 185.42)
 		)
 		(stroke
@@ -4501,16 +4507,6 @@
 			(type default)
 		)
 		(uuid "2ede293b-4d53-41c7-8fd1-41d59ec1c2f2")
-	)
-	(wire
-		(pts
-			(xy 198.12 93.98) (xy 175.26 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f453426-0d31-4308-851f-c85e77525500")
 	)
 	(wire
 		(pts
@@ -5334,16 +5330,6 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 137.16) (xy 256.54 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aeb6253b-0a06-45f7-aff9-a6fcc5f1580e")
-	)
-	(wire
-		(pts
 			(xy 233.68 58.42) (xy 251.46 58.42)
 		)
 		(stroke
@@ -5721,6 +5707,16 @@
 			(type default)
 		)
 		(uuid "e8428778-1447-4bf7-aa39-83d80d9c886d")
+	)
+	(wire
+		(pts
+			(xy 233.68 137.16) (xy 256.54 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea324f14-e23b-4560-b159-6dfa53161749")
 	)
 	(wire
 		(pts
@@ -7486,6 +7482,17 @@
 		)
 		(uuid "1289e4ea-6949-4135-8cf9-3e7860e557a5")
 	)
+	(hierarchical_label "ASSI_SIG1_PIN"
+		(shape output)
+		(at 256.54 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1851575e-90b2-4a8a-b86e-a333723eb4ba")
+	)
 	(hierarchical_label "STBY_CAN_1"
 		(shape output)
 		(at 175.26 83.82 180)
@@ -7585,28 +7592,6 @@
 		)
 		(uuid "98022cab-b162-4d44-be7c-daa7b51f2418")
 	)
-	(hierarchical_label "BUZZER_PIN"
-		(shape output)
-		(at 256.54 137.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9a10dc34-d8b4-425d-bd42-11964eb41a55")
-	)
-	(hierarchical_label "ASSI_SIG1_PIN"
-		(shape output)
-		(at 175.26 93.98 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9a12f0ab-c8a0-4264-a1a3-fa6af3f9dc02")
-	)
 	(hierarchical_label "FUSE_IS[0..1]"
 		(shape input)
 		(at 101.6 96.52 0)
@@ -7639,6 +7624,17 @@
 			(justify right)
 		)
 		(uuid "e98c6504-8b0f-4f5a-8364-ae88c0e9ad73")
+	)
+	(hierarchical_label "BUZZER_PIN"
+		(shape output)
+		(at 256.54 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f982a97b-6ba3-474b-a686-663a7687f01f")
 	)
 	(hierarchical_label "LHI[0..1]"
 		(shape input)
