@@ -1370,7 +1370,7 @@
 		)
 		(uuid "0d2b878e-d561-4006-a741-ca1ddbfc15be")
 	)
-	(text "1* 1k2 to 330R - daisy chain"
+	(text "1* 0 [Ohm] or 330 [Ohm]"
 		(exclude_from_sim no)
 		(at 205.74 132.08 0)
 		(effects
