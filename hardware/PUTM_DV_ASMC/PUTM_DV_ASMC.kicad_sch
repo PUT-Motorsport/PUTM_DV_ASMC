@@ -105,16 +105,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 109.22) (xy 237.49 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52f1d348-5174-4ab9-8ba3-fd19cb069dfe")
-	)
-	(wire
-		(pts
 			(xy 144.78 83.82) (xy 166.37 83.82)
 		)
 		(stroke
@@ -292,16 +282,6 @@
 			(type default)
 		)
 		(uuid "d3acacc0-6291-4b22-8dc6-edfda604a2da")
-	)
-	(wire
-		(pts
-			(xy 144.78 111.76) (xy 237.49 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9e201eb-983c-4bc2-9536-821e967e28ff")
 	)
 	(wire
 		(pts
@@ -869,26 +849,6 @@
 				(justify left)
 			)
 		)
-		(pin "ADC" bidirectional
-			(at 237.49 109.22 180)
-			(uuid "3b348d81-6826-421c-987e-a1e076bd7ca6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GPIO" bidirectional
-			(at 237.49 111.76 180)
-			(uuid "a4714958-6131-461b-b164-402de49666ed")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "ODRIVE[1..4]" input
 			(at 237.49 60.96 180)
 			(uuid "dd51f275-431c-4367-ad26-87bfd827e132")
@@ -1260,26 +1220,6 @@
 		(pin "UART_TX_PROG" input
 			(at 144.78 156.21 0)
 			(uuid "9b5a4b78-ca2f-45d0-951d-db8b4732a9cb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ADC" bidirectional
-			(at 144.78 109.22 0)
-			(uuid "90728ee5-6464-436a-893d-6c5930154dfc")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "GPIO" bidirectional
-			(at 144.78 111.76 0)
-			(uuid "1ca51b0e-8c63-43ef-a4a2-99760fe216cd")
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -2894,16 +2894,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 58.42) (xy 80.01 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14135a9d-53d7-4097-86e1-f7841b5b3e97")
-	)
-	(wire
-		(pts
 			(xy 218.44 48.26) (xy 218.44 52.07)
 		)
 		(stroke
@@ -2921,16 +2911,6 @@
 			(type default)
 		)
 		(uuid "1ab73d5b-0ecf-4495-aad1-5ad1c6338320")
-	)
-	(wire
-		(pts
-			(xy 63.5 38.1) (xy 80.01 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bb35659-3d84-4c2a-a998-8c22d409cb6b")
 	)
 	(wire
 		(pts
@@ -3192,6 +3172,16 @@
 		)
 		(uuid "53c77c09-d8ba-43b7-aeb2-0ca06e2131f2")
 	)
+	(wire
+		(pts
+			(xy 80.01 38.1) (xy 69.85 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b353e04-7610-433f-ba16-01eb6f9f223b")
+	)
 	(bus
 		(pts
 			(xy 134.62 43.18) (xy 134.62 48.26)
@@ -3334,6 +3324,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 38.1) (xy 69.85 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e98ac58-2680-49fd-a7b2-ac6fcab0af4b")
+	)
+	(wire
+		(pts
 			(xy 109.22 167.64) (xy 116.84 167.64)
 		)
 		(stroke
@@ -3451,6 +3451,16 @@
 			(type default)
 		)
 		(uuid "a66d5a82-621e-4156-a2be-4f40574c400e")
+	)
+	(wire
+		(pts
+			(xy 63.5 58.42) (xy 80.01 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a773bfc7-e48e-4bb0-bda9-f3aeb8f93003")
 	)
 	(wire
 		(pts
@@ -4117,17 +4127,6 @@
 		)
 		(uuid "543d306e-7114-4616-bea4-b3bf9ca3b966")
 	)
-	(hierarchical_label "GPIO"
-		(shape bidirectional)
-		(at 63.5 38.1 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "59a3a259-643e-48f7-9d7d-59a2976061cc")
-	)
 	(hierarchical_label "OUT_LIDAR"
 		(shape input)
 		(at 120.65 45.72 0)
@@ -4149,17 +4148,6 @@
 			(justify right)
 		)
 		(uuid "6592cf29-8d28-478b-a408-9fdb8f7e241d")
-	)
-	(hierarchical_label "ADC"
-		(shape bidirectional)
-		(at 63.5 58.42 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6bcac3ff-05ac-4cac-92f0-5d6849170eb9")
 	)
 	(hierarchical_label "RES_SAFETY_IN"
 		(shape input)
@@ -5166,6 +5154,86 @@
 			(project "PUTM_DV_ASMC"
 				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/bd739c45-55b2-43dd-9494-9178de6c943f"
 					(reference "#FLG09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 58.42 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9aa6152a-3b70-4291-b4b1-356acc6689d6")
+		(property "Reference" "#PWR095"
+			(at 57.15 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 59.69 58.4199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b09ccee9-d4d3-4817-9795-99ebb0c6ce04")
+		)
+		(instances
+			(project "PUTM_DV_ASMC"
+				(path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/bd739c45-55b2-43dd-9494-9178de6c943f"
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
